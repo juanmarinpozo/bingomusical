@@ -1,1 +1,2072 @@
-[{"id": "muestra", "texto": "Korium es tu herramienta de trabajo como agente: tus contactos, tus llamadas, el test A ene ese y tus objetivos, todo en un solo lugar. Es un único archivo. Lo abres con doble clic en Chrome o en Edge, funciona sin internet y no hay que instalar nada. El mínimo es cuatro por cuatro por uno: cuatro protecciones, cuatro inversiones y una incorporación.", "voz": "TODAS_ES_ES_MUJER"}]
+[
+{
+"id": "7d86e1b626b7afa03a7fab2b83cdb52f",
+"texto": "Korium es tu herramienta de trabajo como agente:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d96a4d68d6329c4b4ceae7f9d1ae2678",
+"texto": "tus contactos, tus llamadas, el test A ene ese y tus objetivos, todo en un solo lugar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3c3c8968c33deb8fd84254fdb4038b75",
+"texto": "Es un único archivo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ad738c7e0d58ea0ac4210475acd1c215",
+"texto": "Lo abres con doble clic en crom o en edch, funciona sin internet y no hay que instalar nada.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "9c72473a0fa447bd6a414ce80fcf6bb5",
+"texto": "Tus datos se guardan solo en tu navegador, en tu ordenador.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d454d83928aa20399e7ae70dab0fd739",
+"texto": "Nadie más los ve, tampoco tu gestor.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2389218845512b128940546cb639e33a",
+"texto": "Korium no está para controlarte, sino para darte claridad sobre tu negocio.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1f5675723b4a78073c29ab8f39702ab5",
+"texto": "La primera vez, Korium te guía en cinco pasos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6133908a8c765a0f57691b1ab730cb9c",
+"texto": "Pulsa Empezar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "dcc68b9ec6cb66b9405ea777f87076c8",
+"texto": "Primero, tus datos:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "82604c907e9f989ef40fc05218521d68",
+"texto": "nombre, apellidos y correo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8f70e5c6bb0f9e34485a07be0f3ffd8b",
+"texto": "Aparecerán en los informes y en los emails que envíes a tus clientes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1bec1050d75655db0b41cbbb70de3fc2",
+"texto": "Después, tu sueño:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ee641287b907efdd2346dcc87192981a",
+"texto": "para qué haces esto.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "91ad0f722357245acfca0b308fb9995c",
+"texto": "Escríbelo, ponle una fecha y, si quieres, una imagen.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "660584f392b1555ae1739c0f3c8b315b",
+"texto": "Korium te lo recordará cuando más lo necesites.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5247221053ebddf341fa6ae5a1fb700a",
+"texto": "Ahora, tus contactos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "51c97ddd2b8a8235a99a572dc1fe334d",
+"texto": "Puedes importar un éksel o el archivo ce ese uve que exporta gúguel Contactos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8fc9a9479551317456f5d9654a9579e9",
+"texto": "Korium encuentra solo el nombre, los apellidos y el teléfono,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5c16ec8eb76949300c20cd0882e29374",
+"texto": "y no duplica a nadie que ya tengas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "59c9d2dd90f80d173f8723e165195d49",
+"texto": "Si prefieres, puedes hacerlo más tarde desde la pantalla Contactos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2cad12430b55181c14fb6e8c877aecdf",
+"texto": "Por último, tu objetivo del mes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f1f6eac8c92fc6a73aaffd03704094b4",
+"texto": "El mes efectivo va del día 26 al 25, y el mínimo es cuatro por cuatro por uno:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "95f729d520029e25ec4537d013fb7119",
+"texto": "cuatro protecciones, cuatro inversiones y una incorporación.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5dedfcce095a50e5f7c5a3124cecad70",
+"texto": "Puedes subirlo, pero no bajarlo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e6989edd7cf437f074d22f68278aa91a",
+"texto": "Debajo tienes tu plan del primer mes:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "282d7739b5a5582484eae60f9a48ea2b",
+"texto": "200 llamadas en cuatro semanas, unas diez por día laborable.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a9e6d7bb7abaee0951233834bc48b107",
+"texto": "Korium te dirá cada día cuántas te tocan.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2689caacdafdf886009f71d11adea544",
+"texto": "Al entrar, una visita guiada te enseña las pantallas principales:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b3b17a2fb2e89abce153670d9bd3420e",
+"texto": "Hoy, Llamadas, Contactos, el test A ene ese, tu Progreso y la Ayuda.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "eb7da437cb72c2a9552998dcb24f5ebd",
+"texto": "Pulsa Siguiente para ir pasando.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5e948cdd3f43c270c33e5557391a2cd9",
+"texto": "Y ya estás dentro.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8d30bdf82d4e942d0679d8cfd220810a",
+"texto": "Cada día empiezas en la pantalla Hoy, que te dice qué toca hacer.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c6acbc44143bb0bb83da482a7f96b368",
+"texto": "Con los contactos recién importados, tu única tarea es valorarlos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "79e73dff18a576f138fad43ac3bbeca8",
+"texto": "Lo verás en el siguiente vídeo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7ae565a99c58df24742be556178fb2ad",
+"texto": "Si tienes cualquier duda, en cada pantalla tienes el botón Ayuda.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0902e3a4bc829a6c9272c561791eefa5",
+"texto": "Escribe lo que buscas y verás la respuesta.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e7c9689f4eafdaff46b791acda89d190",
+"texto": "Y al terminar el día, pulsa siempre Salir y guardar copia.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "efd7a017d3e647c18aa177f914fee507",
+"texto": "Korium deja una copia de seguridad en tu carpeta de Descargas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5201ee149a739c6c256d82f744ad2ff3",
+"texto": "Lo vemos con calma en el vídeo de copias de seguridad.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "90846900c6e2117b3eea89c55748da56",
+"texto": "Eso es todo para empezar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7fe92fcaee62c27c0a4163721e453288",
+"texto": "En el siguiente vídeo, tus contactos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3159486d9f0b2aac5bd67e1dbaec69af",
+"texto": "Tu base de contactos es el punto de partida del método.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f45f19ac8a40a234b726fd5366e0fd58",
+"texto": "En la pantalla Contactos tienes a todas las personas que has importado, con sus estrellas,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ec098bbfdaac77c757e61b9d72beba5d",
+"texto": "su relación contigo y en qué punto está cada una.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1737d3686f530c765ddb28757c5b1a87",
+"texto": "Con Importar puedes añadir más contactos desde éksel o desde gúguel Contactos cuando quieras.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "05ba251cd99f505dc9c916ccbe265436",
+"texto": "Y con Nuevo contacto, añadir a alguien a mano.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "9d7cdb6738d4279f7ea004e4f6bc2da4",
+"texto": "Lo primero es valorar a cada contacto.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b5233e2c6711393ecfcdc5d4248399a1",
+"texto": "Pulsa Valorar ahora.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "64df57ac005a92204663901723f7c4ce",
+"texto": "Verás un contacto cada vez.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "10eb1d3ed9f109179039d6c0c1e0d51c",
+"texto": "Marca los criterios que cumple:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "abc3d233b60cb89abf99999d2a54f44a",
+"texto": "entre 30 y 55 años, pareja estable, hijos, hipoteca,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "955f91be9e2f839ed1b61c3842d01f00",
+"texto": "ingresos estables y si es autónomo o empresario.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "03fb1b0404438da549305bc1409e1e1d",
+"texto": "Cada criterio es una estrella.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7c67d4ae020256e15eef769f705009d4",
+"texto": "Lo más rápido es usar el teclado:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3368de614dfaf9ecddc985f99c2b8cab",
+"texto": "las teclas del 1 al 6 marcan los criterios.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ec47975af02490c73777f32f4c8e4751",
+"texto": "Después elige la relación que tienes con esa persona:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1a57639e2816ef26f3fa496952aa7e76",
+"texto": "caliente, templado o frío, con las teclas ce, te o efe.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "879cbbcb9234bf03c0f406dca0ba765b",
+"texto": "Al pulsarla se guarda y pasa al siguiente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7d09ccc48fdaea3cf9e8760e31d2f0c9",
+"texto": "Así puedes valorar decenas de contactos en pocos minutos, sin tocar el ratón.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ca6c2334dbbf133da4c0f5e673caaa22",
+"texto": "Arriba ves cuántos te quedan.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1760267caecc645f71e40bfaa6ec94a7",
+"texto": "Cuando termines, Korium te avisa:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f6a88f6190affd8a9df40512bc612aee",
+"texto": "todos valorados.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "fcacc3888ffff003ff708793fdcd37ae",
+"texto": "Ahora toca preparar tu top doscientos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7c48f3ce02d93b02ff0a824cf30da8ed",
+"texto": "El top doscientos son las personas a las que vas a llamar en tu primer mes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "eca3442eed3c120ec53fd3cc4167c414",
+"texto": "Pulsa Completar top doscientos con los mejor valorados y Korium lo rellena con los que tienen más estrellas y la relación más cálida.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "799c663255cd7384e5ff49ee06937420",
+"texto": "También puedes hacerlo a mano:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "baad6205943660b0e5f9c5aad2897d68",
+"texto": "selecciona contactos con la casilla y pulsa Añadir al top doscientos o Quitar del top doscientos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3c46e66b5f2aad9db9c74234b1b172d8",
+"texto": "Para encontrar a quien buscas, usa los filtros:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "73640ef7ed3334d1eeadb597947730a9",
+"texto": "por estado, por relación o por número de estrellas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3761dfcea17addf3569258d2e2b87f98",
+"texto": "O escribe su nombre o su teléfono en el buscador.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b3501801151c34f226b51fa448d5be45",
+"texto": "La columna Estado te dice en qué punto está cada persona:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "65c574c562077cb131bc396074ff0a05",
+"texto": "valorado, en tu top doscientos, llamado, con test agendado, test hecho, propuesta enviada o cliente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "46000ca637b76d3bdc16a394fd5fe6ad",
+"texto": "Y si pulsas en un nombre, se abre su ficha, con todo lo de esa persona.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f9186491d7f18436ca19cd5cb4a82034",
+"texto": "La vemos en otro vídeo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d6061a61c1d1a9f72808ee280d2db90f",
+"texto": "Con tus contactos valorados y tu top doscientos listo, ya puedes empezar a llamar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3cdcba0b0ee6017aa94f02101fb1d344",
+"texto": "Lo vemos en el siguiente vídeo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7ede363fa865b541e00569414c1eb0a8",
+"texto": "En Llamadas haces tu sesión de llamadas, de una en una.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "23f4b7415ede3e93c69650f35c5c111b",
+"texto": "Arriba ves cuántas llevas hoy,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "cb939c5f75e01bcd7d7cf224888e6690",
+"texto": "cómo vas en el plan del primer mes y cuántos contactos tienes en la cola.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "cbb3692e20a07a457035ce6d8d1c3aa8",
+"texto": "Primero aparecen las personas a las que toca volver a llamar hoy.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d3416db2e54b905eacba6fe7e95f693c",
+"texto": "Después, tu top doscientos, empezando por los de más estrellas y la relación más cálida.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "002614fc405a0e145f5529c81e2aa1c9",
+"texto": "Con este botón llamas directamente desde el ordenador o el móvil.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "858a5f4e4a093922aa2204e8fda4b91e",
+"texto": "Si no lo coge, puedes enviarle un guasap, o el mensaje ya escrito de:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "abe25c59b4b57d02a6d385541e13f9d4",
+"texto": "¿me puedes llamar?",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e1e975542cabab8650c14f410901470c",
+"texto": "A la derecha tienes el guion de la llamada.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7b95fea8e4b2e384ce938718e7e46076",
+"texto": "Hay uno para invitar al test A ene ese, otro para formar parte del equipo y dos para pedir referidos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1a2384267a114ee0b2c3746b16392b01",
+"texto": "Son los guiones oficiales del método y no se pueden editar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "32231693cddfed2b640b677f3e629e61",
+"texto": "Y en Antes de llamar, unos consejos para repasar antes de empezar la sesión.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "aede5c88ad66a7be1078be93ca38a5d4",
+"texto": "Cuando cuelgues, anota cómo ha ido con un clic.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "977348c20cabd2bd42ce5077245666b4",
+"texto": "Si no contesta, pulsa No contesta.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0228edbff843031b0a5bd6e79a3f7d12",
+"texto": "Korium lo vuelve a poner en la cola a los dos días laborables.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2331640575a09ecb1f689536bc0e5188",
+"texto": "Después de tres llamadas sin respuesta, pasa a no localizado,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6e60eb9d9e9027455d8aadac0d6b649e",
+"texto": "y siempre lo puedes recuperar desde su ficha.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "eaa45d41ed586b85bf34d221d94206a8",
+"texto": "Mientras tanto, ya tienes delante al siguiente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5b84af74bb2d2ed371399f3e8b4e4ece",
+"texto": "Si te pide que le llames otro día, pulsa Llamar más tarde, elige la fecha y guarda.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5f86c6add48541f89977b7a33158cc1d",
+"texto": "Ese día volverá a aparecer en tu cola.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "723a93c724cdd537c903b1a1d65eac7a",
+"texto": "Y si acepta, pulsa Test agendado.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "49b2122d39a1bacc706c2dddf5fc576d",
+"texto": "Elige el día y la hora:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "678a9dedcddad3ad1e035c54b24db8e1",
+"texto": "el test dura unos 25 minutos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "23e33a5ed6cd1e9b5c1360d6b58bb821",
+"texto": "Al guardar la cita,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5a7913840de1098cf6639faf6d571473",
+"texto": "Korium te prepara el guasap de confirmación y el evento para gúguel calendar o para áutluk.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "08b6bfee39ff593d1e1fd1447e705271",
+"texto": "Confírmala en el momento:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2739c822a7b24f4de1f54238ff4ce6ce",
+"texto": "así fallan muchos menos tests por olvido.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "538dc23a167f8d0d5727bf28e84902c7",
+"texto": "El guasap puede ir en castellano, en catalán o en inglés,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2511e2628d663dd51b6670c39392fc15",
+"texto": "y puedes indicar si vienen en pareja.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c4990118ab255fa2cff5964e098f2ac5",
+"texto": "El día antes, Korium te recordará en Hoy que envíes el recordatorio.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0aadadb2d9f45868182561703093297c",
+"texto": "Si durante la llamada ves que le interesa formar parte del equipo,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "9e48c97ba20fe30c35719dda9908f834",
+"texto": "marca esta casilla antes de anotar el resultado.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a6461ad53a6cd116c925179334ec45be",
+"texto": "Y si no le interesa, pulsa No le interesa:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f16371fbd7a6f94d4b9789f3cbac76e0",
+"texto": "queda como descartado y no vuelve a aparecer en la cola.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "9c4ea5b05bb9c9601162e4f2725bc51d",
+"texto": "También puedes saltar a alguien por ahora, o abrir su ficha para ver sus notas e historial.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "07c4194c89374f2897e4c43360ee1740",
+"texto": "Cada llamada cuenta para tu plan del primer mes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3197939a41f2c785e3b3ffb765708345",
+"texto": "Korium reparte las que te faltan entre los días que quedan,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8eba88a16a45f2f37b4a50d92dab50eb",
+"texto": "así que cada día sabes exactamente cuántas te tocan.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "537d08a7ecc96e21e77af960fbc4f24a",
+"texto": "En el siguiente vídeo, la pantalla Hoy:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "eef412f8b82fe572dc117276cee82d8b",
+"texto": "por dónde empezar cada día.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c0c4025003ebc8733277b86757dd9cc8",
+"texto": "Hoy es la pantalla por la que empiezas cada día.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1e333f7bdf4e85f26522ac150d372c04",
+"texto": "Arriba, en grande, la tarea más importante:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e9ce7284d8296c57505c40e1caadba8b",
+"texto": "aquí, el siguiente test que tienes, con el botón para empezarlo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "92a8d9a410f283d1c12c736175838e98",
+"texto": "Esta tarea cambia según el momento.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1d70f85a8844ac2964afe0232f423a06",
+"texto": "El primer día será valorar tus contactos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ce8a00640384bbcb562b7d1104fe6863",
+"texto": "Durante el primer mes, las llamadas que te tocan hoy.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8b14c3aa5bfb81368bb2da7ee041a3e5",
+"texto": "Y el fin de semana, afilar el hacha:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "068351d530586320b7a12469612e5fc0",
+"texto": "repasar guiones y preparar la semana.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8e2d6841184c489c48516d43901dc60c",
+"texto": "Debajo, todo lo pendiente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "37fdbfe0a20324b7127013b3864d3176",
+"texto": "Cuando pasa la hora de un test, Korium te pregunta qué pasó:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "944b422fbf4175bc5a81c2b1b39cef2a",
+"texto": "si se hizo, si lo movisteis a otro día, si canceló sin nueva fecha o si te dejó plantado.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "357098b45942b40e2a3a592d020b72d9",
+"texto": "Si te dejó plantado, anota la excusa que te dio, si quieres, y confírmalo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "198b9420c62dece47d589da09e67c6d1",
+"texto": "Y ganas un gallifante.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7ffedff07034fa8aab9218f9adc55358",
+"texto": "No es nada personal:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4f19e6145c65eb656ebc8958a1b5621d",
+"texto": "no has perdido nada, ni tienes un cliente menos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "241799ecb5269c49367f0245d9060dfb",
+"texto": "Levanta el teléfono y a por otro.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2b57f89e11c4613309eef62c185a3d93",
+"texto": "En Tests de hoy tienes las citas del día.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1910ad7297e6ad4260917906e8dc1b65",
+"texto": "Antes de empezar, abre su ficha y repasa sus datos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b119eeda914ac432428e5afbfbaab8ac",
+"texto": "En Propuestas y seguimientos,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4cfbd3ff03e46652b6e0bf2f759604ef",
+"texto": "las personas a las que enviaste una propuesta y toca hacer seguimiento.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d19e748635e754b0e63246913424df60",
+"texto": "Son los más cerca de decidir.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5621f9174595666a36569ac122c3269d",
+"texto": "Envíales el guasap y marca Hecho.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6bfc82c7ddf39a310a7276c6177c9e61",
+"texto": "Y en Mañana, los tests del día siguiente, con el guasap de recordatorio ya escrito.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "77a79e7abda12d9d75c35422cc50d69a",
+"texto": "A la derecha, de un vistazo:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c65516eb013ec3d68c6c603b70ca8e31",
+"texto": "cómo vas en tu objetivo del mes,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d0c00c36bde0682389914ba5b5881783",
+"texto": "cuántos días te quedan de tu primer mes y cuántos gallifantes llevas en tu Lista del 80.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "46d73c2f700434b8dba5a3c3f38ecf6a",
+"texto": "El número junto a Hoy te avisa de cuántas cosas tienes pendientes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7f92188fca073082e3d1613458ffa033",
+"texto": "Y los viernes aparecerá aquí la revisión de la semana:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4e9376e16d30d8fb90b009d64ae227d0",
+"texto": "cinco minutos para ver qué salió bien, qué no, y tu objetivo para la semana siguiente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "36800563c834e6f8a3444c133aad6197",
+"texto": "En el siguiente vídeo, el test A ene ese.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6fb889f61389055be36d6d60caaa6de7",
+"texto": "El test A ene ese, el Análisis de Necesidad de Servicio, es la entrevista con tu cliente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "40a71ece7a56ad5b58d4aa2f15abdf8f",
+"texto": "Dura unos 25 minutos y de él sale su nota en educación financiera,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "34347a5b15d2c5826b5b2febf9d8d62f",
+"texto": "la recomendación de servicio y la propuesta con precios.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "61058248f8cb01debe71a0db3a654191",
+"texto": "Para empezar, elige uno de tus tests agendados, busca al contacto por su nombre o,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e935d95779d0888f252c6f9688eb40e0",
+"texto": "si es alguien nuevo, créalo aquí mismo con Persona nueva.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "18fd913f0df8508053db4cb0d0d47ea2",
+"texto": "A la izquierda ves exactamente lo que verá el cliente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "938a7959ebe0b364a021aedd0f60d571",
+"texto": "A la derecha, tu panel, que el cliente no ve nunca.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b612424366f6435d74ef2ac126b1dea0",
+"texto": "El test se puede hacer en castellano, en catalán o en inglés.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "055a3314d81a2aeb702eedded31ffbe0",
+"texto": "El idioma se cambia aquí, en cualquier momento.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "81e8429a3ac3500c029f8a5f318e21a3",
+"texto": "Si el test es por videollamada, pulsa Abrir vista del cliente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4d8ec4e4d58081d4acb5708d1920d1b1",
+"texto": "Korium te recuerda cómo compartir pantalla:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1e4cf8f1fa7c2b846ea82f7d0a0519cd",
+"texto": "en mit, sum o tims, comparte una ventana, nunca toda la pantalla.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e58307cabfcd826d3aee46371f4d96c3",
+"texto": "Se abre una ventana aparte.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a7d72744757155aa26ba29ea0b66a36e",
+"texto": "Esta es la ventana que compartes:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "bd137beb124aa08ea633294ecd28c2b3",
+"texto": "tiene un borde granate y solo muestra lo que debe ver el cliente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ad3fd2dcc975683fb56eeb0eb039acbe",
+"texto": "Tu panel, tu guía y tus notas se quedan en tu ventana.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1c29056dce2e5512d4179fff9a8f9cfe",
+"texto": "Las dos ventanas van sincronizadas:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8f89abd4547cbefc371efb266361f337",
+"texto": "lo que se marca en una aparece al instante en la otra.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "086aac5962bb706ea25adf58757336e4",
+"texto": "Puedes responder tú, desde aquí, mientras hablas con el cliente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "772cc136057e6368bf54cd72a28d1890",
+"texto": "Lee cada pregunta en voz alta, escucha y marca la respuesta.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6e335b1b42ef6c63b41d31af75f77384",
+"texto": "Después pasa a la siguiente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b6bef3268eaa45a7764924e424fc2581",
+"texto": "Mientras avanzas, el semáforo de tu panel te enseña la recomendación en curso:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a7d22773c899482e4309a9c5279d53d9",
+"texto": "lait o estándar, y los ámbitos que van saliendo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3e175e868f20e38179a5a8c75ff3c5bd",
+"texto": "Para muchas preguntas tienes una guía que te dice qué buscar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4dfcdf146db037c52d737f4d095c23b5",
+"texto": "Y en Notas internas apuntas lo que quieras:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d9d1eaefee3c7a15d885de36dc5037ce",
+"texto": "solo lo ves tú y no sale en el informe.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "060973ae364da40e123d6131feb414af",
+"texto": "Si el cliente pone pegas, en Objeciones tienes la respuesta a las más habituales.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5385ab8dc36e80a3c14c62581abe86f9",
+"texto": "Si el caso es más complejo de lo normal, márcalo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a846ec98c3e1f20af5c92694c10956af",
+"texto": "Korium también te avisa solo cuando lo detecta,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d42da1362ef2dd034adfe017b49fc03d",
+"texto": "para que lo comentes con tu gestor antes de cerrar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "44f08524bb9c3673408d2baeee240846",
+"texto": "Y si tenéis que cortar, pulsa Dejar para luego.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1f2a1c095b80e23ce7db31173552a022",
+"texto": "El test queda guardado y lo retomas desde la ficha del contacto o desde test A ene ese.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1110412a6b27e1d92158fc21198207e8",
+"texto": "Al acabar las preguntas, el cliente ve el resumen de su sesión, bloque a bloque.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f0adfa7259bc0f4d7ed897f7c1ca228b",
+"texto": "Después, paso a paso y cuando tú decidas, le enseñas su nota,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4baf86267bf7f9c59c2b995cc7aa6c6a",
+"texto": "la recomendación de servicio y la propuesta con el precio.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ded59832f825be13660fef69ead7689c",
+"texto": "Nadie saca un 10:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c54b49128a0498880400df788818f400",
+"texto": "la nota máxima es un 9.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "9f15cf0e2a5c8941a400908be324a775",
+"texto": "Y la propuesta es la que da la herramienta, sin descuentos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "53dacf4e9dc3697a7bf968d814e4c1d7",
+"texto": "Para cerrar la sesión tienes el guion de cierre, con lo que debes decir en este momento.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b63434d2cef6a7d807ebc7e7a41fecd7",
+"texto": "Cuando termines, pulsa Terminar y guardar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1aabaea97621ad3ea894174ef659695e",
+"texto": "Qué hacer con el resultado lo vemos en el siguiente vídeo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c2f45b9af30c1e56ef2e9112289681b9",
+"texto": "Al pulsar Terminar y guardar, ves el resultado del test:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "44185b12bd49e992d27be039d519cbcd",
+"texto": "la recomendación, la nota y el precio de la propuesta.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8a8747ff0cb4961b2a7413be3e2cc72c",
+"texto": "Debajo, todo lo que tienes que enviar al cliente, en orden.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c11425a123e0185ac68f8b6142620eaa",
+"texto": "Uno:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1c87ab3f28d06453441ab302621d25f7",
+"texto": "el resumen y la propuesta en pe de efe.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "eba95c7fe876711e19e237f219bc78dc",
+"texto": "Se abre listo para imprimir:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c2ea85e1ca63ed6df7e37b564bfa9aac",
+"texto": "elige Guardar como pe de efe.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6c7ee86040e103b57a555d123bce7a23",
+"texto": "Sale en el idioma del test, aunque puedes elegir otro.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1321fda48813fc09d38b7d958565bba5",
+"texto": "Dos:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8c8dfe07c3496ce00cb498cb1bba9147",
+"texto": "el email.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "42034bc784c74241ec926ca699ee8c44",
+"texto": "Escribe el correo del cliente y elige yi meil, áutluk o tu programa de correo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "daf64b109e6fc5e0229d5b8527527d18",
+"texto": "Korium te deja el email escrito:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4f828ab38e049741a75a0e27537d9533",
+"texto": "solo tienes que adjuntar el pe de efe.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "26fd933999c3423fc8ce4b9139f267b2",
+"texto": "Tres:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "be7547aa131d368cbf9402976b1c592d",
+"texto": "el recordatorio de seguimiento, para gúguel calendar o para áutluk, con el resumen del test.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c9420d0b37047500bfcc3a2e3107a351",
+"texto": "Y cuatro:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e85d289fece08a3375750ae6bdfd63af",
+"texto": "el guasap de seguimiento, para enviarlo a los dos días si no hay respuesta.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a8d38f15760eaf063b16f8408be31056",
+"texto": "La nota sale de cuatro pilares, de cero a dos puntos cada uno:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c261e0fca2a28074e259e6471141014d",
+"texto": "conocimiento, orden y método, colchón y protección, y hábitos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "629601f388cfa9d5c1e8539ec875e7da",
+"texto": "En Para ti, los ámbitos que han salido en el test, y dos botones:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "db048e2d920abe52fe775ba8cb41de0f",
+"texto": "pedir referidos y repetir el test más adelante.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "121174b97c564885726214a609a7e2c5",
+"texto": "Cuando hayas enviado la propuesta, pulsa Ya envié la propuesta.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "971d196f8c4059f79715883fcaf10fb9",
+"texto": "Korium te recordará en Hoy cuándo hacer el seguimiento.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b0e4a5bbdfcf11d34fffd2b557738fbf",
+"texto": "Si al final no contrata, pulsa No contrata y anota el motivo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3c85f663f950c87fd10573fd2af489b6",
+"texto": "Conocer los motivos te ayuda a mejorar.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "efa66fd9c603a016897e9809c6b63b4b",
+"texto": "Y si contrata, pulsa Contrata.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "14c166440db6171643ccbd757ed8db9b",
+"texto": "Elige el servicio y marca si lo has cerrado con tu entrenador o ayudando a otro agente:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "35eacc808d8dadb4fda12fdd18f67711",
+"texto": "así se completan tus hitos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0455aff3877a2345c4f6655bbec7700e",
+"texto": "Y ya tienes un cliente nuevo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "179b3fa7fd6cdec48c768a8fbb0e6e3b",
+"texto": "En el siguiente vídeo, la ficha del contacto.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "044b5676911917c83eb69b1635096ebb",
+"texto": "Cada contacto tiene su ficha, con todo lo suyo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "52869e87ad9ef932d4da8063a624f4c0",
+"texto": "Búscalo en Contactos y pulsa en su nombre.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "16d7cf26642e45ae659c801379b5fcdb",
+"texto": "Arriba ves su nombre, en qué punto está y sus estrellas,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f7a667d13e900736a4760845e7742920",
+"texto": "y los botones de lo que toca hacer con él ahora.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c6acd44d51ecc909cbbd74d8a133701a",
+"texto": "En Datos puedes corregir el nombre, el teléfono o el correo, y escribir notas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1190bf28ff3ebd7c8e9263808a47ad85",
+"texto": "Todo se guarda solo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "be9ec160d9b64f28dc0f663f2b18d4e0",
+"texto": "En Valoración, sus estrellas, la relación que tienes con él,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "262253714d69048d99572e0c3e10d40f",
+"texto": "si está en tu top doscientos y si tiene relación con el equipo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "72b4810afdeb25b58c1880c08ff39b0c",
+"texto": "En Tests A ene ese, todos sus tests, con la recomendación y la nota.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e0c9b00d8dfb4c01e00a22892e0a75db",
+"texto": "Pulsa Ver para abrir el resultado, o Repetir test pasados unos meses.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "badf69ddceaf38e6f209910c61fe044b",
+"texto": "En Contratado, lo que tiene contigo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "24e65d644505f3d86059c1120a53861d",
+"texto": "Con Añadir anotas un producto nuevo, como un seguro de vida o una inversión, con su fecha.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1af14600ef81bae88ee0824d0703e902",
+"texto": "Es lo que cuenta para tu objetivo cuatro por cuatro por uno.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "abe1dbb1beae12086938491a6b148c11",
+"texto": "Cuando un cliente te presente a alguien, pulsa Añadir referido y escribe sus datos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "463df23d8012751b204a86db92c61d11",
+"texto": "El nuevo contacto queda vinculado a quien te lo presentó y entra directamente en tu top doscientos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0adf030232fab1ebd4c5d38e52bc1773",
+"texto": "Así siempre sabrás quién te trae más gente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "223a1dc89e9a0de1a3b3cc19e85164ae",
+"texto": "Y en Historial tienes todo lo que ha pasado con esta persona:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3f6678a0eb182dd2271b3789cbcc7ac1",
+"texto": "llamadas, citas, tests, propuestas y contratos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6974967b34786ef8da6efa85b50094bc",
+"texto": "También puedes añadir tus propias notas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "dcbf7bde730ac6378eae15c9fcfe05d1",
+"texto": "Si un contacto quedó descartado o no localizado,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "916a78922cfddbb980faf778acd5ba86",
+"texto": "en su ficha verás el botón Volver al recorrido, para recuperarlo cuando quieras.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4590192f6aa8c1803dfa6403ae8bb414",
+"texto": "Y si necesitas borrar a alguien, abajo tienes Borrar contacto.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a599f38824bac31dab223a3e15f0189f",
+"texto": "Cuidado:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4b00562ae74504c99a1adbdbb8de7903",
+"texto": "se borra con todo su historial y sus tests.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e2e4b05c91fcd6a94c7ab42aeb3c7d36",
+"texto": "En el siguiente vídeo, tu progreso, tus hitos y la biblioteca.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f1e8eeefc90aeb6ba592583606c1724f",
+"texto": "En Progreso ves cómo vas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e85dd8bf1b758f81f60c6593079373e0",
+"texto": "Primero, tu objetivo del mes efectivo, que va del día 26 al 25:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "23e3a22ddd27e1ab2e340e2428484f24",
+"texto": "protecciones, inversiones e incorporaciones.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f11542d4b03bb9a565172b6bcc10c851",
+"texto": "Cuenta lo que marcas como contratado en las fichas, con su fecha.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "dd1e721b541c64d56f42eba88789fdae",
+"texto": "El mínimo es cuatro por cuatro por uno, y aquí puedes subirlo si quieres ir a por más.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "76353c8a6278f312096365d925614a7c",
+"texto": "Debajo, el resumen de cada mes efectivo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e76a9e332752370aa6d676fea617af96",
+"texto": "A la derecha, tu plan del primer mes:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "96e03c79a2833b20d3af125385e65e1e",
+"texto": "las 200 llamadas, cuántas llevas y cuántas te quedan, ya repartidas entre los días que faltan.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c964afd88a34ef4ea8372a41662918f7",
+"texto": "Tu sueño, con su fecha.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7c1ac8d261d925122afbe40f196a0f82",
+"texto": "Si pasas unos minutos sin tocar Korium, aparece en pantalla para recordarte por qué haces esto.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "12ba17f6efa41c1f3b6625d3671c3246",
+"texto": "La Lista del 80:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "27a16fd5c8dfe53cb49612aedfecfc2c",
+"texto": "las personas que confirmaron una cita y te dejaron plantado.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c192836b2ec58b8b0cc2129149179056",
+"texto": "Cada una es un gallifante, y al llegar a 50 se abre un premio en la Biblioteca.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3c301b54c5abd971f37e7301c17d00d3",
+"texto": "Y las excusas que te ponen.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c3ce6a55fb04f1d6e798febfaabdac08",
+"texto": "Conocerlas te ayuda a adelantarte en la siguiente llamada.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6f3093dc9f1cbcea9e8915add8c6daf7",
+"texto": "Abajo, la revisión semanal:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5e1d74a8608ecfc963ced2922fdc8ed4",
+"texto": "cinco minutos los viernes para anotar qué salió bien,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7a945b459668237148f119008e47e3d2",
+"texto": "qué no y tu objetivo para la semana siguiente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "435a93acf1f74dc7ac456393b55cc5c8",
+"texto": "Solo la ves tú.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "72daa80e09c2aa8c729e286ea0e1fb24",
+"texto": "En Hitos tienes los doce hitos del camino del agente, del primer cliente al liderazgo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5d78e2f8f057cd5522c8267cfa6f2a4d",
+"texto": "Se marcan solos cuando haces lo que piden.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1f8718df22b1ef45fc6aae9bb8efad15",
+"texto": "Por ejemplo, tu primer cliente con el apoyo de tu entrenador, o tu primer cliente sin ayuda.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4bd0ce0519b93306df7bc77455ef1df7",
+"texto": "Algunos hitos tienen premio.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f96410de8c494c22a443e8ab9fba9c56",
+"texto": "Unos los entrega tu gestor, y otros se abren en la Biblioteca con una contraseña que te da él.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f9ef59ef6661cb07aee7dd0824582be2",
+"texto": "En la Biblioteca están esos recursos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3e1ac6802122eb868e204ef44f7bfa3f",
+"texto": "Cuando consigas el hito, pide la contraseña a tu gestor.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c80b5bf9b7847f1273d5301141e770e7",
+"texto": "Escríbela, pulsa Desbloquear, y el recurso queda abierto para siempre.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "428e08bbad3c9cc41a51cd7e244fab74",
+"texto": "El premio de los 50 gallifantes no necesita contraseña:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "86c5482705ac756d731b15461399554e",
+"texto": "se abre solo cuando llegas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "5b2fdfba4e74472d985d86fec75191ae",
+"texto": "En el siguiente vídeo, tus estadísticas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "bd3068a357fd4e2d023d653ea61d0f7b",
+"texto": "En Estadísticas ves tu actividad en el periodo que elijas:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4d80f759018d04a8b20775e049120cdf",
+"texto": "la última semana, los últimos quince días, el último mes,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "17a6280d74fdfd95461ec7cb998045b8",
+"texto": "el mes efectivo o las fechas que quieras.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b8c37ce252226b6fd0b968d45e6eda1d",
+"texto": "Actividad del periodo resume lo que has hecho:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6fb27adac8809f8b214022df5b6f3a8c",
+"texto": "llamadas, tests, propuestas, lo contratado y los gallifantes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8529e6cc15dc40cfb93d4c7077a4839b",
+"texto": "Marca Ver también el periodo anterior y lo comparas con el de antes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "33005176a3bd04d8620de85a1d733091",
+"texto": "En Qué ha pasado tienes, contacto a contacto, todo lo que registraste, lo más reciente primero.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "310789870c7fa36f8a42f54e6ea154a5",
+"texto": "Es la pantalla para repasar tu semana con tu gestor.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "aa47ccc67927e8548b5a55c274d50cd3",
+"texto": "Si quieres enseñársela en la reunión, compártela:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c8abb8a705931e1e2484cee06c745eb8",
+"texto": "tú decides qué ve.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "4280bd5390b2854abfa8cab0dc896f94",
+"texto": "El embudo te dice, de cada paso al siguiente, qué porcentaje avanza:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "89d4b384ab84f2549f13fed9da210b17",
+"texto": "de llamados a tests agendados, a tests hechos, a propuestas y a clientes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2ac42ace6161c7eed6ff954fdf79d481",
+"texto": "Así ves dónde se te escapan.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0242444a4114719d15677c4522185936",
+"texto": "Después, tus tests A ene ese con su nota media, y lo contratado, servicio a servicio.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "99f84e26f47a237df34d9f04e4553169",
+"texto": "Y qué contactos se convierten más en clientes,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ea9d1b8ecf1563c6fb45f1b4eb342322",
+"texto": "según sus estrellas y según tu relación con ellos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "823b10bbd8b0987882d2f3f6da2f01bd",
+"texto": "Al final, quién te trae más referidos y la foto de tu base:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1839f7f226c9e599063eeaf6142d42c5",
+"texto": "cuántos contactos tienes en cada estado.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c25a78730d82a3475efc66e859a9a7df",
+"texto": "En el siguiente vídeo, tus copias de seguridad y los ajustes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a0435784555407a264edaa92a6010e34",
+"texto": "Tus datos se guardan solos, al momento, en el navegador de tu ordenador.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "bc8624a1d843b043cfc61cd516db03d1",
+"texto": "No salen de ahí:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "66c35c7402968b2053fb45cd0a5b4cf1",
+"texto": "nadie más los ve, tampoco tu gestor.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "f2ef9d8955c8e4090aa20fcdfb067aa8",
+"texto": "Por eso es tan importante la copia de seguridad.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "fe4337faaf863b5e380fc9645871c12b",
+"texto": "Si tienes cambios sin copia, Korium te lo avisa arriba,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a849b223335f6088b32c33a55e6d7b95",
+"texto": "con un botón para guardarla en el momento.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "67dcca78315766fc03cd3162f41ad22b",
+"texto": "Pero lo normal es que no tengas que pensar en ello:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6d9f17eb1c2852187bfbdd0af1d4cb8c",
+"texto": "al terminar el día, pulsa siempre Salir y guardar copia.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "d96dfd73889ceea051d41a04baed6a45",
+"texto": "Korium descarga entonces un archivo en tu carpeta de Descargas:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "404ea32ba789ea37f40469a688b457b9",
+"texto": "como mucho uno al día, y solo si hubo cambios.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "8cda9065567f52c252b6a4a02f5c0feb",
+"texto": "Solo necesitas el último:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "405106e0cdffea0728ee8b668f8e48e9",
+"texto": "las copias antiguas las puedes borrar, y Korium te lo recuerda una vez al mes.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7388a1f2c914d0da88ede4c86faade5b",
+"texto": "Si lo prefieres, puedes cambiar a una copia semanal.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "e77742f9588fbd795993850d343b0a51",
+"texto": "Y en cualquier momento puedes guardarla a mano con Guardar copia ahora.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "20b4f1c49a61d58e73c056736febf522",
+"texto": "Si cambias de ordenador o de navegador, abre Korium en el nuevo, ve a Ajustes,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "54336e36200ff7224c3be51e7598e473",
+"texto": "pulsa Restaurar o importar y elige tu copia más reciente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "106959d7361a9d1f2283fce70bfc1aa1",
+"texto": "Antes de sustituir nada, Korium guarda lo que tenías, por si te equivocas de archivo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "25bcd4a8b8335f84ed1d5507328f25ec",
+"texto": "Y si pasa, tienes Deshacer la última restauración.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "9fad02b3593f34b235675bc1f6860737",
+"texto": "En Ajustes también tienes el modo práctica:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "44313a148a031bdf15d15623db25cf4b",
+"texto": "un Korium con cien contactos de mentira para practicar el método y el test sin tocar tus datos reales.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "332f943a91f8b0ae5f458e0e5c4fd42c",
+"texto": "Cuando acabes, pulsa Volver a mis datos y todo sigue como lo dejaste.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7a7f12dd418650a9f450f33fa86dbe84",
+"texto": "Y además, tu perfil y tu sueño, las novedades de cada versión,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6ee7a2de80a1deb01d42ee59dd257414",
+"texto": "repetir la visita guiada y reiniciar el plan del primer mes,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "43f30b16749f7e575c2e145538524be5",
+"texto": "que necesita una contraseña de tu gestor.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2a0a0dd829edf02114292447b33f2ddd",
+"texto": "Recuerda:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3abbbdac5b30ff540a63336d3cc193d5",
+"texto": "al terminar, Salir y guardar copia.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c8995ebb88b1254189121e2ae868c3c3",
+"texto": "Y ya puedes cerrar la pestaña.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "c4be814f20563634b1250dfe85ec60cd",
+"texto": "En el último vídeo, cómo traer tus datos de una versión anterior de Korium.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "70850fe90fb8d5498baa3a531cee6d7c",
+"texto": "Si ya usabas una versión anterior de Korium, o el A ene ese por separado, no pierdes nada:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ae193077b500d0c1743a6cd3ae834ce3",
+"texto": "la versión nueva trae todos tus datos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "96c720588fc80516e422601d72097b7b",
+"texto": "Esta es una versión antigua, la versión treinta y siete, con los contactos y el progreso de un agente.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3bba75521c4d29273be56657e7364f92",
+"texto": "Al abrir Korium dos punto cero en el mismo navegador,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6426565dc6fb260e762f6a1d33016fd1",
+"texto": "encuentra solo tus datos anteriores y te ofrece traerlos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0785e575cc9b1c57cadf74f6e8836b80",
+"texto": "Pulsa Importar mis datos.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "cdd6af7572ee2820c625a9b8ca04e32d",
+"texto": "En un momento tienes todo:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "7950879aab07f429645ed46397112408",
+"texto": "contactos, tests, hitos y progreso.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "de6e01dbe0922460ccac481cdd65c5eb",
+"texto": "Y antes de adaptarlos se guarda una copia en el navegador, por si acaso.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "0f3eacd8598669d436ffef7da9a8928d",
+"texto": "Lee las novedades de la versión y ya puedes seguir trabajando donde lo dejaste.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "b420b0d3f4c438f2797c9af190e455c5",
+"texto": "Si tu versión anterior está en otro navegador o en otro ordenador,",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "93e227ce79d1dc256c1fc3efc90e549f",
+"texto": "usa el archivo que descargaba su botón Salir.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "3bac7837ce756ccf1d7f336f26a340f5",
+"texto": "Ve a Ajustes, pulsa Restaurar o importar y elígelo aquí.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "a7b76b853664ab46945dce9412e7b482",
+"texto": "Sirve también la copia de un test del A ene ese suelto:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "db6f7fed611257e17c2133bdc2589fbb",
+"texto": "se añade a tus datos, sin borrar nada.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "6fc416cc08fdce2fa37828d64f0e3cce",
+"texto": "Korium reconoce solo de qué versión es cada archivo.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "9d0c93e6a427174b24cfd517a73a753a",
+"texto": "El test importado aparece en test A ene ese, con su resultado.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "926c56e566dd418ae9bf0c81e0b93de8",
+"texto": "Y en el futuro, cuando salga una versión nueva, es todavía más fácil:",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "75f8e9c80cc89adf2e28588b0a874445",
+"texto": "sustituye el archivo de Korium por el nuevo y ábrelo en el mismo navegador.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "2b0c5ea54123a0af5278606ca2b69fb9",
+"texto": "Tus datos siguen ahí y verás las novedades.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "69c125332eb0f573bcd3a49c999ce78d",
+"texto": "Por si acaso, antes de cambiar de versión, pulsa Salir y guardar copia.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "034eb78e47b77c4710d5f1c3d7ec2bde",
+"texto": "Así tienes siempre tu copia más reciente en Descargas.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "1c9d853f586cbbb5b0ea2f20259a5d74",
+"texto": "Y con esto ya conoces todo Korium.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "70e140c2cbabfb6492d923df17568245",
+"texto": "Si tienes cualquier duda, pulsa Ayuda o pregunta a tu gestor.",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+},
+{
+"id": "ff89ac5fc1b676950ba2527f2493e193",
+"texto": "¡A por ello!",
+"voz": "es-ES-ElviraNeural",
+"rate": "+0%"
+}
+]
