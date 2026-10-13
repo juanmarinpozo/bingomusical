@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
-      - run: pip install edge-tts==7.0.2
+      - run: pip install --upgrade edge-tts
       - run: python tts/generar.py
         timeout-minutes: 25
       - run: |

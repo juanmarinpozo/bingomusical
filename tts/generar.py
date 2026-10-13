@@ -1,5 +1,6 @@
 import asyncio, json, os, edge_tts
 OUT = 'tts/out'; os.makedirs(OUT, exist_ok=True)
+LOG = []
 async def main():
     voces = await edge_tts.list_voices()
     es = [v for v in voces if v['Locale'].startswith('es-')]
@@ -16,7 +17,8 @@ async def main():
                     await asyncio.wait_for(edge_tts.Communicate(p['texto'], p['voz'], rate=p.get('rate', '+0%')).save(ruta), 40)
                     print('ok', p['id'], flush=True); return
                 except Exception as e:
-                    print('reintento', p['id'], e); await asyncio.sleep(3)
+                    LOG.append(f"{p['id']} {type(e).__name__}: {e}"); print('reintento', p['id'], e); await asyncio.sleep(3)
+                    if os.path.exists(ruta): os.remove(ruta)
     pedidos = []
     for p in pedido:
         if p['voz'] == 'TODAS_ES_ES_MUJER':
@@ -26,3 +28,4 @@ async def main():
         else: pedidos.append(p)
     await asyncio.gather(*[una(p) for p in pedidos])
 asyncio.run(main())
+open(f'{OUT}/log.txt','w').write(f'edge_tts {edge_tts.__version__}\n' + '\n'.join(LOG[:200]))
