@@ -2,6 +2,7 @@ name: voz-tutoriales
 on:
   push:
     branches: [voz-tutoriales]
+    paths: ['tts/pedido.json']
 permissions:
   contents: write
 jobs:

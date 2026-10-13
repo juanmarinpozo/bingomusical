@@ -1,0 +1,34 @@
+name: voz-muestras
+on:
+  push:
+    branches: [voz-tutoriales]
+    paths: ['tts/muestras.py']
+permissions:
+  contents: write
+jobs:
+  m:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        motor: [gtts, melo, chatter]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: dependencias
+        continue-on-error: true
+        run: |
+          case "${{ matrix.motor }}" in
+            gtts) pip install gTTS ;;
+            melo) pip install git+https://github.com/myshell-ai/MeloTTS.git && python -m unidic download ;;
+            chatter) pip install chatterbox-tts ;;
+          esac
+      - run: python tts/muestras.py ${{ matrix.motor }}
+        continue-on-error: true
+      - name: subir
+        run: |
+          git config user.name voz-bot; git config user.email voz-bot@users.noreply.github.com
+          git add tts/out; git commit -m "muestras ${{ matrix.motor }}" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 5; done
