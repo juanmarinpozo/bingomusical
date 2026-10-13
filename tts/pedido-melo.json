@@ -1,0 +1,2078 @@
+[
+{
+"id": "08f9bc0aeee743ffc3cd8045c420fe49",
+"texto": "Korium es tu herramienta de trabajo como agente:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1b5663a7d2d6da1bff147cf0d9e2d900",
+"texto": "tus contactos, tus llamadas, el test A ene ese y tus objetivos, todo en un solo lugar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f693d2c1d1f31233af344e5d3fdd7e92",
+"texto": "Es un único archivo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d4c78e104e499abda899000cde359b08",
+"texto": "Lo abres con doble clic en crom o en edch, funciona sin internet y no hay que instalar nada.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "901d55934c66dfcb28e15ed0e8c6cd44",
+"texto": "Tus datos se guardan solo en tu navegador, en tu ordenador.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b3bb68d77e97803121a4534c8c9decf0",
+"texto": "Nadie más los ve, tampoco tu gestor.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "aeb9dd965e6d924fdd28aee27903748a",
+"texto": "Korium no está para controlarte, sino para darte claridad sobre tu negocio.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "88e926dbdca4a26504f0bf4c3a92ea97",
+"texto": "La primera vez, Korium te guía en cinco pasos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1276501598e231b244d45dbb43734142",
+"texto": "Pulsa Empezar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5a26dd2ac28bb767a3da41e35ad9363a",
+"texto": "Primero, tus datos:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6d4cacd96ec942526ac754e3a56fe397",
+"texto": "nombre, apellidos y correo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b521dd86af69c4e3fd976389d8455176",
+"texto": "Aparecerán en los informes y en los emails que envíes a tus clientes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8a33353408727863a2c3496546c4bb9a",
+"texto": "Después, tu sueño:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b5fc932b96bc1c6faa52892477263bcf",
+"texto": "para qué haces esto.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f0557b7ceefde1c01be9640fb981a1c1",
+"texto": "Escríbelo, ponle una fecha y, si quieres, una imagen.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "db148bea27ced0d9522ae0524db0a7f8",
+"texto": "Korium te lo recordará cuando más lo necesites.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f5d4bea9f39469b6d320e185d49264bf",
+"texto": "Ahora, tus contactos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d70562be070c744bebd68b79eb4cadb1",
+"texto": "Puedes importar un éksel o el archivo ce ese uve que exporta gúguel Contactos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e0ec31f3c301378634755d3e04f16dc0",
+"texto": "Korium encuentra solo el nombre, los apellidos y el teléfono,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e84e343be04763113eb2fde1e9274e17",
+"texto": "y no duplica a nadie que ya tengas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d1899c0391d90b76b0b944c507cb938c",
+"texto": "Si prefieres, puedes hacerlo más tarde desde la pantalla Contactos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1752b89f417c41b2f291491120818f23",
+"texto": "Por último, tu objetivo del mes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0230059d84e0edd9442f42ece0c6b118",
+"texto": "El mes efectivo va del día 26 al 25, y el mínimo es cuatro por cuatro por uno:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "81b362baad593676a9af78f474f4536b",
+"texto": "cuatro protecciones, cuatro inversiones y una incorporación.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d26406156a0be84e52fe205c65bb4562",
+"texto": "Puedes subirlo, pero no bajarlo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e6e50c14a8f0b45df9b28aa758755a0f",
+"texto": "Debajo tienes tu plan del primer mes:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "ddd06cb04e59e336bee7567ef7a025d8",
+"texto": "200 llamadas en cuatro semanas, unas diez por día laborable.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2e27b03429db31b83e7e5946e1d929fa",
+"texto": "Korium te dirá cada día cuántas te tocan.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2d6673f142d4ab5d6667e96d2213c92f",
+"texto": "Al entrar, una visita guiada te enseña las pantallas principales:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "24b9076fd6adee5ae11350de297f06e3",
+"texto": "Hoy, Llamadas, Contactos, el test A ene ese, tu Progreso y la Ayuda.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "44fa72b97305911a80fd7f6927dd3388",
+"texto": "Pulsa Siguiente para ir pasando.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e972940088c4cf41ca40d8a8185045d3",
+"texto": "Y ya estás dentro.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "dfc52732d5e7db8d437336c8c9db677d",
+"texto": "Cada día empiezas en la pantalla Hoy, que te dice qué toca hacer.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "56fcd0c5f5a2238e035cdea5e57c0292",
+"texto": "Con los contactos recién importados, tu única tarea es valorarlos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5b43a4676df5c7a52a614f36d77e11ca",
+"texto": "Lo verás en el siguiente vídeo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e03e1c75cf837d5ecb1252623981b40e",
+"texto": "Si tienes cualquier duda, en cada pantalla tienes el botón Ayuda.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7841bd8a7b07e375c05c6f1e344cf413",
+"texto": "Escribe lo que buscas y verás la respuesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9e8c45d582b5ea6f8b1b3308d39c7a04",
+"texto": "Y al terminar el día, pulsa siempre Salir y guardar copia.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d2571ecd04a507affe7d25e926cc1dbb",
+"texto": "Korium deja una copia de seguridad en tu carpeta de Descargas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "03b5467add744c0de1d814aabc1832f0",
+"texto": "Lo vemos con calma en el vídeo de copias de seguridad.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "beaf9993384705f9ea20a060d8edd2a3",
+"texto": "Eso es todo para empezar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8b826a5cbcdc81d76b5b7fc8a4167435",
+"texto": "En el siguiente vídeo, tus contactos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "56f5c05fd31b68b7ce88a349bb7401bd",
+"texto": "Tu base de contactos es el punto de partida del método.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0bab6ea848d9d488e04d3f6783f03bb3",
+"texto": "En la pantalla Contactos tienes a todas las personas que has importado, con sus estrellas,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b704408c7e90fb82662fde3cb4bf7c8b",
+"texto": "su relación contigo y en qué punto está cada una.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "efac44387f395e5108d0ad4fc0c5e510",
+"texto": "Con Importar puedes añadir más contactos desde éksel o desde gúguel Contactos cuando quieras.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "52374d536113c5355392c930fb65d95a",
+"texto": "Y con Nuevo contacto, añadir a alguien a mano.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "aa40aa91d98071882f52934a4c92449b",
+"texto": "Lo primero es valorar a cada contacto.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6e99b04f0a242b53e77cd90cd50431aa",
+"texto": "Pulsa Valorar ahora.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "255bcc3b35cc4d3a0f88d992fb67dedc",
+"texto": "Verás un contacto cada vez.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "fb91bd8bfe2267e78485a2cd08469f60",
+"texto": "Marca los criterios que cumple:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a42dc010e3d39bfac63baa822457143c",
+"texto": "entre 30 y 55 años, pareja estable, hijos, hipoteca,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b0d9f87e6cf66eb442d1d48de0386e81",
+"texto": "ingresos estables y si es autónomo o empresario.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b8e838022ffae71e89f7582cd5beed5c",
+"texto": "Cada criterio es una estrella.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5e7d0d4b4ee94dd1449cf4341c9b1352",
+"texto": "Lo más rápido es usar el teclado:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6142067333d0d43f55685becbdf1b9bf",
+"texto": "las teclas del 1 al 6 marcan los criterios.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a0c41559bac4ce15a3d24b9f831d05e7",
+"texto": "Después elige la relación que tienes con esa persona:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "64ac9aebfd3e4edc9a42a534e1cae4ac",
+"texto": "caliente, templado o frío, con las teclas ce, te o efe.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "db4d4742ffa700c5fd4e56e8daa4b0a0",
+"texto": "Al pulsarla se guarda y pasa al siguiente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4e6ad44fbc8e8767043715668e4d708f",
+"texto": "Así puedes valorar decenas de contactos en pocos minutos, sin tocar el ratón.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e516336c4212645865a910068127fe0c",
+"texto": "Arriba ves cuántos te quedan.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b5573e771bbbe4b50e26d9ec098efd26",
+"texto": "Cuando termines, Korium te avisa:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f18ceb686e94b969dfe529533cb071f5",
+"texto": "todos valorados.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "76fc33595d850ae214d33fe8a446c867",
+"texto": "Ahora toca preparar tu top doscientos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "130a7240a0610538799aca4104066c5c",
+"texto": "El top doscientos son las personas a las que vas a llamar en tu primer mes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "70979a47ca410d2fc2360b88b199fa2a",
+"texto": "Pulsa Completar top doscientos con los mejor valorados y Korium lo rellena con los que tienen más estrellas y la relación más cálida.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3685cb0f21371748cfeacd661a515a7b",
+"texto": "También puedes hacerlo a mano:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "54cb801f8dbf38cfe12b3d8716773f90",
+"texto": "selecciona contactos con la casilla y pulsa Añadir al top doscientos o Quitar del top doscientos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e1e39cd66df040dfddb5706e9724bfbe",
+"texto": "Para encontrar a quien buscas, usa los filtros:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7af0b1efc213b82f1adbe7f972c5f75f",
+"texto": "por estado, por relación o por número de estrellas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "988b141097c148931a493473eb997bba",
+"texto": "O escribe su nombre o su teléfono en el buscador.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a1ecc07d0a59458a03ebe2962a3014ea",
+"texto": "La columna Estado te dice en qué punto está cada persona:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5ce3d83384546fe24e95fdfeed27e061",
+"texto": "valorado, en tu top doscientos, llamado, con test agendado, test hecho, propuesta enviada o cliente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "41ee685f25092b5b678e946d7db35c85",
+"texto": "Y si pulsas en un nombre, se abre su ficha, con todo lo de esa persona.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d329f2cfdf4459254d5d47d0feff4c3a",
+"texto": "La vemos en otro vídeo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d56e7dcea2455451d3d6d4991f69763e",
+"texto": "Con tus contactos valorados y tu top doscientos listo, ya puedes empezar a llamar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2f429c27a768d058e225d405302bf339",
+"texto": "Lo vemos en el siguiente vídeo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a7d502171ce00f2cc12540d358e5a7a4",
+"texto": "En Llamadas haces tu sesión de llamadas, de una en una.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8bab8c84487bd1852bf5327b26ddee8a",
+"texto": "Arriba ves cuántas llevas hoy,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1a133bdb520b79bd1cbae826229722af",
+"texto": "cómo vas en el plan del primer mes y cuántos contactos tienes en la cola.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "bbc6cd99979dafcb83b41825385e07dd",
+"texto": "Primero aparecen las personas a las que toca volver a llamar hoy.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4e8697cee9799d106e85989f6d618c07",
+"texto": "Después, tu top doscientos, empezando por los de más estrellas y la relación más cálida.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5f031f94242c08e710ea64c7e6bd679f",
+"texto": "Con este botón llamas directamente desde el ordenador o el móvil.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "251dcd806e529fa6231e9a6629da29eb",
+"texto": "Si no lo coge, puedes enviarle un guasap, o el mensaje ya escrito de:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "694c2629e57d268a9f711013e0992a4d",
+"texto": "¿me puedes llamar?",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "31a035621a4027c26743422dac68a769",
+"texto": "A la derecha tienes el guion de la llamada.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "dcebaaf78f3b163b72689441bc80c679",
+"texto": "Hay uno para invitar al test A ene ese, otro para formar parte del equipo y dos para pedir referidos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d4e667428d09919aaf4019098e09c795",
+"texto": "Son los guiones oficiales del método y no se pueden editar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "17d0e6e3c0625b421ca5ef17e0bad49a",
+"texto": "Y en Antes de llamar, unos consejos para repasar antes de empezar la sesión.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "209fb8d62c7222809fafe65eedaf32eb",
+"texto": "Cuando cuelgues, anota cómo ha ido con un clic.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "dcdf5a63acfd5d1b916ee9e4c143c8f1",
+"texto": "Si no contesta, pulsa No contesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5fb11f2103809d07acf6866718af3f13",
+"texto": "Korium lo vuelve a poner en la cola a los dos días laborables.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6f5ceb10dc3a8a9d0bdfa13af93ba690",
+"texto": "Después de tres llamadas sin respuesta, pasa a no localizado,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e1e989ef2bcf1e95c6d1217882f90e14",
+"texto": "y siempre lo puedes recuperar desde su ficha.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "022ad5045c89da5109cdb9bdafd50872",
+"texto": "Mientras tanto, ya tienes delante al siguiente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8859f3fd34723ddb610f0a1700330302",
+"texto": "Si te pide que le llames otro día, pulsa Llamar más tarde, elige la fecha y guarda.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3f29a9cad8008b3b8fd1ed32a7971250",
+"texto": "Ese día volverá a aparecer en tu cola.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "871f0d73d001ae81102c2256352e5a15",
+"texto": "Y si acepta, pulsa Test agendado.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a25453238ab979b86ae3b0bcabdec66c",
+"texto": "Elige el día y la hora:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "86d8ff8dd83ebe4dda979d4cb06b0543",
+"texto": "el test dura unos 25 minutos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3d4b4313870887eb1311fa8a910b5551",
+"texto": "Al guardar la cita,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3028d0ef11aee039e2b758705b3f7709",
+"texto": "Korium te prepara el guasap de confirmación y el evento para gúguel calendar o para áutluk.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2d1e52710667313a7b6733c3fb27b54c",
+"texto": "Confírmala en el momento:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "703b0e613247a44b4264940665233f01",
+"texto": "así fallan muchos menos tests por olvido.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "14ec19a0da12e6bb0028c2f511718712",
+"texto": "El guasap puede ir en castellano, en catalán o en inglés,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "21b366d0423222eb6bdf21a32a76566d",
+"texto": "y puedes indicar si vienen en pareja.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d0f618ae75d80890c327d46bcfe72e7d",
+"texto": "El día antes, Korium te recordará en Hoy que envíes el recordatorio.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d0b7f42ed344ebfe661f4e1ac6885500",
+"texto": "Si durante la llamada ves que le interesa formar parte del equipo,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a836d11bb23ed5a408bc672f0352da80",
+"texto": "marca esta casilla antes de anotar el resultado.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "15a3b203d39ea51ce16ab286442c23fc",
+"texto": "Y si no le interesa, pulsa No le interesa:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "110065222ebfd6f1b28f0a6c50e05a38",
+"texto": "queda como descartado y no vuelve a aparecer en la cola.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f7d32d92e87741e9926e598c99a4c520",
+"texto": "También puedes saltar a alguien por ahora, o abrir su ficha para ver sus notas e historial.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "732472de3573ae92e7058bbaf68e3d4a",
+"texto": "Cada llamada cuenta para tu plan del primer mes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6307091ecb63a4de4ad2d76aeb0e6f60",
+"texto": "Korium reparte las que te faltan entre los días que quedan,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b4d39d9e15d9494be9c4eaad7fa49ca4",
+"texto": "así que cada día sabes exactamente cuántas te tocan.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "91bf255f7c9617d0549e12c4394ab6db",
+"texto": "En el siguiente vídeo, la pantalla Hoy:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f9da32137b74543a654e74f0e4b48dd9",
+"texto": "por dónde empezar cada día.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4462563285d8e2bf593afa379d5b12be",
+"texto": "Hoy es la pantalla por la que empiezas cada día.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c55243dd1571576c0a02b325d32b071e",
+"texto": "Arriba, en grande, la tarea más importante:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b5908766041d6c3a25173b482013af8a",
+"texto": "aquí, el siguiente test que tienes, con el botón para empezarlo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9d17500802ed22903da12594224edaec",
+"texto": "Esta tarea cambia según el momento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d41b07307832ec3cc3489f30321b300a",
+"texto": "El primer día será valorar tus contactos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9dfdc5efcdd75615bdbcdced84418ba0",
+"texto": "Durante el primer mes, las llamadas que te tocan hoy.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "58ece5a5da6c9573da2d977e7f0e28de",
+"texto": "Y el fin de semana, afilar el hacha:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "212bd9594963600239073712eada55e6",
+"texto": "repasar guiones y preparar la semana.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "74f6f2244b0ff7742ce7108f986213ec",
+"texto": "Debajo, todo lo pendiente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "770f7d2eafdcd13f82b3ae12ee9edab3",
+"texto": "Cuando pasa la hora de un test, Korium te pregunta qué pasó:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9845d78dbf3ac8ce76f02c134f8c44a0",
+"texto": "si se hizo, si lo movisteis a otro día, si canceló sin nueva fecha o si te dejó plantado.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "39f3c1d848773702809c0502c5ee9784",
+"texto": "Si te dejó plantado, anota la excusa que te dio, si quieres, y confírmalo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "907affd4936e1dc3bf7f03ab62ee48a2",
+"texto": "Y ganas un gallifante.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "86dbcd3a1d6c95d636d85c3f0cac5792",
+"texto": "No es nada personal:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a9c78cbeebec40644f3733cc45fb45be",
+"texto": "no has perdido nada, ni tienes un cliente menos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "91c6acdc060343de624e46d8d69b10e7",
+"texto": "Levanta el teléfono y a por otro.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4ebbb1db16117a080cc2c0611947ca5c",
+"texto": "En Tests de hoy tienes las citas del día.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e72eeadaae5c6ec1642552d51202aead",
+"texto": "Antes de empezar, abre su ficha y repasa sus datos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "935b18cffbfedab9b559558f250e12c9",
+"texto": "En Propuestas y seguimientos,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "ad056b2c9b7df2b69d972034c8719913",
+"texto": "las personas a las que enviaste una propuesta y toca hacer seguimiento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e73994a68d746a7663033d0619132277",
+"texto": "Son los más cerca de decidir.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4e2b888b6f7fbd26520cc1fb2160db7b",
+"texto": "Envíales el guasap y marca Hecho.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "92d698e6d76b2555cf7c5e7717b679e0",
+"texto": "Y en Mañana, los tests del día siguiente, con el guasap de recordatorio ya escrito.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "683154914f2d970fc331c68608ba9018",
+"texto": "A la derecha, de un vistazo:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4b408ad8d8b4f01f542eef50b4573895",
+"texto": "cómo vas en tu objetivo del mes,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "752f588f8889919ab14fab67cc016356",
+"texto": "cuántos días te quedan de tu primer mes y cuántos gallifantes llevas en tu Lista del 80.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f27a27d152b6bdd45adfc91161dc0042",
+"texto": "El número junto a Hoy te avisa de cuántas cosas tienes pendientes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "572102ea60d2e24f6d098257e2e8f968",
+"texto": "Y los viernes aparecerá aquí la revisión de la semana:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5281abcc1a4494cae21397ac497b097c",
+"texto": "cinco minutos para ver qué salió bien, qué no, y tu objetivo para la semana siguiente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9528ee63a1256f3b827f1464b2d243d7",
+"texto": "En el siguiente vídeo, el test A ene ese.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4a2e5b9180aae57078fc3e95b923e4f9",
+"texto": "El test A ene ese, el Análisis de Necesidad de Servicio, es la entrevista con tu cliente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "86891b613981f9b1e6ea1dc3dcf1726b",
+"texto": "Dura unos 25 minutos y de él sale su nota en educación financiera,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a6860404bd47c20abfc068d1730270e6",
+"texto": "la recomendación de servicio y la propuesta con precios.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "829584b94675f87cce7b952a8542986f",
+"texto": "Para empezar, elige uno de tus tests agendados, busca al contacto por su nombre o,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a44e2d9aeb3d427c30f82c1925f53c4f",
+"texto": "si es alguien nuevo, créalo aquí mismo con Persona nueva.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "fa4f3bc0811e1ffe2f25dff7c8404e5c",
+"texto": "A la izquierda ves exactamente lo que verá el cliente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a597a3c7f370c1a309ef2e0566c2a2d7",
+"texto": "A la derecha, tu panel, que el cliente no ve nunca.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1be650f0047fa81ff9edc62cb4329f85",
+"texto": "El test se puede hacer en castellano, en catalán o en inglés.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "94671b7b319dabdba2edb88a9c72db1f",
+"texto": "El idioma se cambia aquí, en cualquier momento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6c5b0418474a04d230c5d2fdddad4d6b",
+"texto": "Si el test es por videollamada, pulsa Abrir vista del cliente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "35464a6b08ad79beaac75ac0cfa857be",
+"texto": "Korium te recuerda cómo compartir pantalla:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "caf77cc869c887a52493650f1c721ea3",
+"texto": "en mit, sum o tims, comparte una ventana, nunca toda la pantalla.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d652df8e18eb8f2ca3bbf92dba93e74a",
+"texto": "Se abre una ventana aparte.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c28e14142c9361e993ba43cbc6025af3",
+"texto": "Esta es la ventana que compartes:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "92eec3e0f0260db70b6964f1503ad32d",
+"texto": "tiene un borde granate y solo muestra lo que debe ver el cliente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7b4cc4121d44528c936399318f422a56",
+"texto": "Tu panel, tu guía y tus notas se quedan en tu ventana.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "40aa8908fdc1b5b5e71ba2dc6e9f6f14",
+"texto": "Las dos ventanas van sincronizadas:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b5b85194d5af27b137fe5f68b63c691c",
+"texto": "lo que se marca en una aparece al instante en la otra.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a2adde6d423455dcd1a35c0a99969054",
+"texto": "Puedes responder tú, desde aquí, mientras hablas con el cliente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "91123b20e967879122e8a96f715b7287",
+"texto": "Lee cada pregunta en voz alta, escucha y marca la respuesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6223c84bb71f14ca4e73b28dcdd43a08",
+"texto": "Después pasa a la siguiente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b3948ee5cdf391364024e86248add834",
+"texto": "Mientras avanzas, el semáforo de tu panel te enseña la recomendación en curso:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "742ecff750d08839ee03008001d24891",
+"texto": "lait o estándar, y los ámbitos que van saliendo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2800c9a23a4e421c6b9014ad67e23fa1",
+"texto": "Para muchas preguntas tienes una guía que te dice qué buscar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0e5933d154cbd6c6044a9e9b421c3d0b",
+"texto": "Y en Notas internas apuntas lo que quieras:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3bf59c30baf1d644954cf676d99c329a",
+"texto": "solo lo ves tú y no sale en el informe.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "65558b96956fa2507d0260cb0d5d6674",
+"texto": "Si el cliente pone pegas, en Objeciones tienes la respuesta a las más habituales.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "aba69fd23738da0c5a923db43a01a787",
+"texto": "Si el caso es más complejo de lo normal, márcalo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e82f68a3a02bba1cab4bfe1020c9b5ce",
+"texto": "Korium también te avisa solo cuando lo detecta,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "28be663995fc70ad756dfa45f53c9a74",
+"texto": "para que lo comentes con tu gestor antes de cerrar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8eeaf2c72c02530c4abb67f67e4769d3",
+"texto": "Y si tenéis que cortar, pulsa Dejar para luego.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "627d662b1ee642a0bacedd1af9669c0c",
+"texto": "El test queda guardado y lo retomas desde la ficha del contacto o desde test A ene ese.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0086594a3aa0eeaa9e23591b57566301",
+"texto": "Al acabar las preguntas, el cliente ve el resumen de su sesión, bloque a bloque.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "23a08c1c115b0331e4cb8df1a2f6af7b",
+"texto": "Después, paso a paso y cuando tú decidas, le enseñas su nota,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4d30495fdc4f9a1e908f2e59b9c6d7bf",
+"texto": "la recomendación de servicio y la propuesta con el precio.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8eebf4492b56493ed2006a5ec143828e",
+"texto": "Nadie saca un 10:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f929c1068988d74c4f452f4aa95c0f72",
+"texto": "la nota máxima es un 9.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c456e927b84beded9ebd5f2aafbd4eff",
+"texto": "Y la propuesta es la que da la herramienta, sin descuentos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "69422f2b84a24223c77769b22b7e4cd4",
+"texto": "Para cerrar la sesión tienes el guion de cierre, con lo que debes decir en este momento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9d7792898bca56d6cf9e048749aee63a",
+"texto": "Cuando termines, pulsa Terminar y guardar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "65bcdad785ff1ecbc8f7b0c1da21addd",
+"texto": "Qué hacer con el resultado lo vemos en el siguiente vídeo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "956920b8c6e204a2c99971576dbe3f20",
+"texto": "Al pulsar Terminar y guardar, ves el resultado del test:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d2e4cca08048ee2e040b519410df6510",
+"texto": "la recomendación, la nota y el precio de la propuesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2134428f24c9493524ab6f58553e1de8",
+"texto": "Debajo, todo lo que tienes que enviar al cliente, en orden.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "ec9e5908e72de3b682ac96d430378c3f",
+"texto": "Uno:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8a92d70b50b04918f308910d205264f9",
+"texto": "el resumen y la propuesta en pe de efe.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "443b38016f193ad621561e33278d6502",
+"texto": "Se abre listo para imprimir:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "380435291a862a2b2b6fa42660caba60",
+"texto": "elige Guardar como pe de efe.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "96e9075d5bb1ee32f9829c26b28b8eaf",
+"texto": "Sale en el idioma del test, aunque puedes elegir otro.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6a468cf48b8771977df01be36809fa46",
+"texto": "Dos:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c99b93c16819af851afcc1efa0196d88",
+"texto": "el email.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9ff8450681a714a794a404f18e0b20e8",
+"texto": "Escribe el correo del cliente y elige yi meil, áutluk o tu programa de correo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "af054edf669df2745ade14c35d15751f",
+"texto": "Korium te deja el email escrito:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "eeda82cd2965c565178ae5ba46056de0",
+"texto": "solo tienes que adjuntar el pe de efe.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "fc86f678025995cfaf9c64159ee0ca1c",
+"texto": "Tres:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "975c6e735272a35610082539cd9f99e5",
+"texto": "el recordatorio de seguimiento, para gúguel calendar o para áutluk, con el resumen del test.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3e595973d0f9eb3c1eba3375ac5a5387",
+"texto": "Y cuatro:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "04a3e0e8540804fb66be3f58d522861d",
+"texto": "el guasap de seguimiento, para enviarlo a los dos días si no hay respuesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "607027007cebb9c9c6cf455b8b2a8e47",
+"texto": "La nota sale de cuatro pilares, de cero a dos puntos cada uno:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "47fe60ff446756de94620d14104387e0",
+"texto": "conocimiento, orden y método, colchón y protección, y hábitos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "be6e5069bfc4db698d62c7809cd4c6bf",
+"texto": "En Para ti, los ámbitos que han salido en el test, y dos botones:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "60e701203a6a0ea07a1c478bd29c6f76",
+"texto": "pedir referidos y repetir el test más adelante.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "13f3ae4a1d17cf6ccc9d4d0a5c0bfbf8",
+"texto": "Cuando hayas enviado la propuesta, pulsa Ya envié la propuesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "daa202fb0a1acde98f1fc1b78bd5b3d0",
+"texto": "Korium te recordará en Hoy cuándo hacer el seguimiento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "613670b780fa3274cf87ba84d8d997fd",
+"texto": "Si al final no contrata, pulsa No contrata y anota el motivo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "41f5ba02dd2e13c94236561c91ad99a8",
+"texto": "Conocer los motivos te ayuda a mejorar.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3bc1509ac267f19695f5229181d114c9",
+"texto": "Y si contrata, pulsa Contrata.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1a44080ad1fbe0849f28bfff9d00705b",
+"texto": "Elige el servicio y marca si lo has cerrado con tu entrenador o ayudando a otro agente:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e44ca139fd098567144027ffef1dcf64",
+"texto": "así se completan tus hitos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d6eeeee2c0510648ed81c463d1fd1f1c",
+"texto": "Y ya tienes un cliente nuevo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e77e5a5e353380a0151f19a8f52f6af7",
+"texto": "En el siguiente vídeo, la ficha del contacto.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0fdafd0457259e6299dd28f9c30206f7",
+"texto": "Cada contacto tiene su ficha, con todo lo suyo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7f706f388c818343eae11a7c483d8e56",
+"texto": "Búscalo en Contactos y pulsa en su nombre.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d89abf811ca2f5f1bf916afd77799560",
+"texto": "Arriba ves su nombre, en qué punto está y sus estrellas,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1d635f7db0bbc9cdc3079fa876512300",
+"texto": "y los botones de lo que toca hacer con él ahora.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e371655afa6890f758c001a3bdac5188",
+"texto": "En Datos puedes corregir el nombre, el teléfono o el correo, y escribir notas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "320fb9109afc389f261f6d182540880d",
+"texto": "Todo se guarda solo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c3550db4bfed046f79475bc06b47bac1",
+"texto": "En Valoración, sus estrellas, la relación que tienes con él,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a867f8633f910ffce8eaec4257a8ef74",
+"texto": "si está en tu top doscientos y si tiene relación con el equipo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "164347ee7ef6254493f063dc8c67c498",
+"texto": "En Tests A ene ese, todos sus tests, con la recomendación y la nota.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d04dfdc8becbb5ed41ae51bb0f88d508",
+"texto": "Pulsa Ver para abrir el resultado, o Repetir test pasados unos meses.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9f37576084c0c4d0e6728503e68639be",
+"texto": "En Contratado, lo que tiene contigo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "084f0de383796fb5ffbf2208cd1c23dc",
+"texto": "Con Añadir anotas un producto nuevo, como un seguro de vida o una inversión, con su fecha.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b58b644c1f46021d7025ce7d61667215",
+"texto": "Es lo que cuenta para tu objetivo cuatro por cuatro por uno.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9f952385209220d5138d4fad3c087e49",
+"texto": "Cuando un cliente te presente a alguien, pulsa Añadir referido y escribe sus datos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "700ba903c83ae63dd8e9ceb241362f54",
+"texto": "El nuevo contacto queda vinculado a quien te lo presentó y entra directamente en tu top doscientos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "ed11db350aa54377e87cdabc091a4222",
+"texto": "Y como es tu primer referido, consigues el hito 11.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f84564dd5279466848c395fff9014397",
+"texto": "Así, además, siempre sabrás quién te trae más gente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "72f72c00c014a4fc49bd0ffe0ecd04b0",
+"texto": "Y en Historial tienes todo lo que ha pasado con esta persona:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "63a4ff4af6b30a33fa40ea2b1e9b6301",
+"texto": "llamadas, citas, tests, propuestas y contratos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "462a6c2f8f62074166c9a607318c7695",
+"texto": "También puedes añadir tus propias notas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7075875315dd7f2ffbcb808252061822",
+"texto": "Si un contacto quedó descartado o no localizado,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "595364ba15f6c27c272c8086ba145ceb",
+"texto": "en su ficha verás el botón Volver al recorrido, para recuperarlo cuando quieras.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3f9e6b1e46a36321ec4d83cc902d02d5",
+"texto": "Y si necesitas borrar a alguien, abajo tienes Borrar contacto.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "48feb007df9effa8d4ff7e025b02f7e8",
+"texto": "Cuidado:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b65c1ea959a636d904b9a06fadab0ced",
+"texto": "se borra con todo su historial y sus tests.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a6b15dc3f3f1477c92601776b90dad21",
+"texto": "En el siguiente vídeo, tu progreso, tus hitos y la biblioteca.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "185bd70fba3dd916a01fdcf6334621cb",
+"texto": "En Progreso ves cómo vas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "cb0b14939fe8c2029b78400db65c2831",
+"texto": "Primero, tu objetivo del mes efectivo, que va del día 26 al 25:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0da802d57799f7f3e2a7fa8a7836a00d",
+"texto": "protecciones, inversiones e incorporaciones.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4527e33b72e786de65b3d69ab1031bdd",
+"texto": "Cuenta lo que marcas como contratado en las fichas, con su fecha.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f2367c4a72dcf20217ca4a7677ec4eca",
+"texto": "El mínimo es cuatro por cuatro por uno, y aquí puedes subirlo si quieres ir a por más.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "cf42383377d1384a925992c179ca91d6",
+"texto": "Debajo, el resumen de cada mes efectivo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d728081a4d70eab7b8228732f192ac1e",
+"texto": "A la derecha, tu plan del primer mes:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "8a436000911d5a420d56ed92177316c1",
+"texto": "las 200 llamadas, cuántas llevas y cuántas te quedan, ya repartidas entre los días que faltan.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c9b641ea740360c6fd2773ba5a403673",
+"texto": "Tu sueño, con su fecha.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9181ab4d488bdd0e0f7fc8eabd156899",
+"texto": "Si pasas unos minutos sin tocar Korium, aparece en pantalla para recordarte por qué haces esto.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "775a2666e68974ba26a0628f30267be0",
+"texto": "La Lista del 80:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0740a7123e0f869e3bccafc8442b11c5",
+"texto": "las personas que confirmaron una cita y te dejaron plantado.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "004089a412966e64daf91aefaa8abafe",
+"texto": "Cada una es un gallifante, y al llegar a 50 se abre un premio en la Biblioteca.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "20b390a72c9497c68151916ae2beb885",
+"texto": "Y las excusas que te ponen.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "43c1124fd28ffa3cbbfdcaad06fa5f39",
+"texto": "Conocerlas te ayuda a adelantarte en la siguiente llamada.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "ee0afb5c436f55dd402f8e9d5e7e2bb9",
+"texto": "Abajo, la revisión semanal:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "dfa44031496ab3b593e49398ac1288c7",
+"texto": "cinco minutos los viernes para anotar qué salió bien,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "ccc0b7ab07c89be79f059f8ce066ae5d",
+"texto": "qué no y tu objetivo para la semana siguiente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "93dcb7d91c185c58cf99ea5b26e8c1de",
+"texto": "Solo la ves tú.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4696405f58a6d2bb9a56deb80eec425b",
+"texto": "En Hitos tienes los doce hitos del camino del agente, del primer cliente al liderazgo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9975390c7bd3d3e2bfbff800ce0a1f24",
+"texto": "Se marcan solos cuando haces lo que piden.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "46f3e63787b20a2541d1ca285f034b3b",
+"texto": "Por ejemplo, tu primer cliente con el apoyo de tu entrenador, o tu primer cliente sin ayuda.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e7db7d7a6d6c1d56a9f6b00b83a08a9c",
+"texto": "Algunos hitos tienen premio.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6b24278d2c8e1483321603fab5fed2c1",
+"texto": "Unos los entrega tu gestor, y otros se abren en la Biblioteca con una contraseña que te da él.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b1e46da763be467b835cdf9ef798cce7",
+"texto": "En la Biblioteca están esos recursos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a97c593175d32c93f0bed7ec264d0b8f",
+"texto": "Cuando consigas el hito, pide la contraseña a tu gestor.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5046cf0960ab4d24878f8880a2cbb5c9",
+"texto": "Escríbela, pulsa Desbloquear, y el recurso queda abierto para siempre.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1a12d8367b826a39c019806c3be001b9",
+"texto": "El premio de los 50 gallifantes no necesita contraseña:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "99ff8a2e897e754e5a16076c168ff4fa",
+"texto": "se abre solo cuando llegas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6fd08f2af7807b399e1901753de0e26a",
+"texto": "En el siguiente vídeo, tus estadísticas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3676169db24f5683b3847fc1d5f0ed43",
+"texto": "En Estadísticas ves tu actividad en el periodo que elijas:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "22156a9ac2ec15b3caff049352ba8e56",
+"texto": "la última semana, los últimos quince días, el último mes,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f428eb39bce41460f1cd5ba921cd6c11",
+"texto": "el mes efectivo o las fechas que quieras.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a0a1b35267000338a8a16acf864b4f2a",
+"texto": "Actividad del periodo resume lo que has hecho:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1b605c676355ac5429227f40fb7c4677",
+"texto": "llamadas, tests, propuestas, lo contratado y los gallifantes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b415943bf243f72f1c4cd4f8bbcf2f97",
+"texto": "Marca Ver también el periodo anterior y lo comparas con el de antes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "fe4a4497bc17893953a34336faaa26d5",
+"texto": "En Qué ha pasado tienes, contacto a contacto, todo lo que registraste, lo más reciente primero.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e76db36c7c61f6330ee9b19fb77b6735",
+"texto": "Es la pantalla para repasar tu semana con tu gestor.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b106e67e18ff0a058805e99b24f98df2",
+"texto": "Si quieres enseñársela en la reunión, compártela:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "61ebca75f7b08d5d7debe453ea29a243",
+"texto": "tú decides qué ve.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "093c1c9a1cd9b980cfe42dacc7722793",
+"texto": "El embudo te dice, de cada paso al siguiente, qué porcentaje avanza:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "39bbe7848f9819662204b79bcd69989b",
+"texto": "de llamados a tests agendados, a tests hechos, a propuestas y a clientes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a53406eb29b337fbc222262100b7e91e",
+"texto": "Así ves dónde se te escapan.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4c8efa154095889e88ff7d7f45de2a5a",
+"texto": "Después, tus tests A ene ese con su nota media, y lo contratado, servicio a servicio.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6ac9f19c67702d67daf93f179f7062d1",
+"texto": "Y qué contactos se convierten más en clientes,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a25d0a64e135eb5a73ca950619ee7d00",
+"texto": "según sus estrellas y según tu relación con ellos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "69f1a510dcb421c31908a701b917eac6",
+"texto": "Al final, quién te trae más referidos y la foto de tu base:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "531a0c209391aa309ef70af6b7f8a9dc",
+"texto": "cuántos contactos tienes en cada estado.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "bbecb95d36ce3558b08af9caf2a9febc",
+"texto": "En el siguiente vídeo, tus copias de seguridad y los ajustes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1cd1c467e6ccc32f357ad65e481b7def",
+"texto": "Tus datos se guardan solos, al momento, en el navegador de tu ordenador.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2e189b7bfa93367339d180ec445428c6",
+"texto": "No salen de ahí:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6e1cf73c0ff2b058de6534673270888d",
+"texto": "nadie más los ve, tampoco tu gestor.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3234ede28693647db550123fbf432760",
+"texto": "Por eso es tan importante la copia de seguridad.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9e9fef3ce83960f085ec4f7e8f80ecbc",
+"texto": "Si tienes cambios sin copia, Korium te lo avisa arriba,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "541d766a6c7366c8c4d49d67589236cc",
+"texto": "con un botón para guardarla en el momento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "ba376e4c49f4b1c93b6243ea3ccafe73",
+"texto": "Pero lo normal es que no tengas que pensar en ello:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "11d5c87ce71a7540c51ec792db39d6d0",
+"texto": "al terminar el día, pulsa siempre Salir y guardar copia.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a36fbc792daa2971af01f091539aa31f",
+"texto": "Korium descarga entonces un archivo en tu carpeta de Descargas:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "6e9eacaf90edda4f25fb44b14bbac47c",
+"texto": "como mucho uno al día, y solo si hubo cambios.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "f39266df176473ab68dfacffcd9da200",
+"texto": "Solo necesitas el último:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2ca80195168d4a564119f8b62701a50e",
+"texto": "las copias antiguas las puedes borrar, y Korium te lo recuerda una vez al mes.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "39814dd022c47b95fa9f175e45c2d217",
+"texto": "Si lo prefieres, puedes cambiar a una copia semanal.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "959adc2d348fe55cb51f9f6d92d4deb1",
+"texto": "Y en cualquier momento puedes guardarla a mano con Guardar copia ahora.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "86e69b3dc9908a8c8b014582f576c2e5",
+"texto": "Si cambias de ordenador o de navegador, abre Korium en el nuevo, ve a Ajustes,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c32d239a6d842c6b36eb45b1db3b6906",
+"texto": "pulsa Restaurar o importar y elige tu copia más reciente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3fee4fdb5088ed11f2c184e906c5ecee",
+"texto": "Antes de sustituir nada, Korium guarda lo que tenías, por si te equivocas de archivo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "de447b86e4edb1c322365835aa20d299",
+"texto": "Y si pasa, tienes Deshacer la última restauración.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "70e828e0f0f388a26f6696d06f832e3f",
+"texto": "En Ajustes también tienes el modo práctica:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "84dd30d58555868092eeca7accd4bc39",
+"texto": "un Korium con cien contactos de mentira para practicar el método y el test sin tocar tus datos reales.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e214a00c99da0051b7fc122cf023cdfc",
+"texto": "Cuando acabes, pulsa Volver a mis datos y todo sigue como lo dejaste.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "894b0572811544f64f8c363b3f040ac0",
+"texto": "Y además, tu perfil y tu sueño, las novedades de cada versión,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "5ef2918a7d63002799f9eb2a564494de",
+"texto": "repetir la visita guiada y reiniciar el plan del primer mes,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c4e8604d29dd118745e275de76937839",
+"texto": "que necesita una contraseña de tu gestor.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0916297ec74aac2612248e113babd021",
+"texto": "Recuerda:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "014f6d6ebe37f05abca534fa1899285c",
+"texto": "al terminar, Salir y guardar copia.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "71f181693a2834e1a3e61cb2f9bd8b09",
+"texto": "Y ya puedes cerrar la pestaña.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c63592ac61743aba1b5584fcb94d8226",
+"texto": "En el último vídeo, cómo traer tus datos de una versión anterior de Korium.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c0271b3c4b78adb6d20ed7c304356482",
+"texto": "Si ya usabas una versión anterior de Korium, o el A ene ese por separado, no pierdes nada:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7f2fe53a7d479adf78b50fc9f767a2ef",
+"texto": "la versión nueva trae todos tus datos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "81ee22b72ba2d33815fbb8b19c5fef17",
+"texto": "Esta es una versión antigua, la versión treinta y siete, con los contactos y el progreso de un agente.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "957bdd1ce6995d03bea3b338d41db343",
+"texto": "Al abrir Korium dos punto cero en el mismo navegador,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "beb3d933de78e7a69b4ff516908418be",
+"texto": "encuentra solo tus datos anteriores y te ofrece traerlos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b385825b16dc979b7c9c1e0c8c91e2b6",
+"texto": "Pulsa Importar mis datos.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d1323236b4e607338093a4a6bb829253",
+"texto": "En un momento tienes todo:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1be283981411ad28240fa130cd4f2fd6",
+"texto": "contactos, tests, hitos y progreso.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a835eb2349a76557c630f034560a653f",
+"texto": "Y antes de adaptarlos se guarda una copia en el navegador, por si acaso.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "018d6be082390c1be69da9b33544bb54",
+"texto": "Lee las novedades de la versión y ya puedes seguir trabajando donde lo dejaste.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "73e5d74a755ee2941dc7c9183f0a3b6d",
+"texto": "Si tu versión anterior está en otro navegador o en otro ordenador,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d3076f10bf2d6bc995e13886a7ebb7a4",
+"texto": "usa el archivo que descargaba su botón Salir.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3bbf370f1769f8f9fc476151cf2363d3",
+"texto": "Ve a Ajustes, pulsa Restaurar o importar y elígelo aquí.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9870195b03096d6a6f58f92eb73e12c0",
+"texto": "Sirve también la copia de un test del A ene ese suelto:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "c2f7d674da9d3fcb2d73dd4a39cf7cb2",
+"texto": "se añade a tus datos, sin borrar nada.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e2deb50fa7fe357456552b5e81f223c6",
+"texto": "Korium reconoce solo de qué versión es cada archivo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "9cf4e97f5912916c1f8a8eacc2b82db3",
+"texto": "El test importado aparece en test A ene ese, con su resultado.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "e2876f1d27a0b801c40e7c09d226057e",
+"texto": "Y en el futuro, cuando salga una versión nueva, es todavía más fácil:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a2c937b8957ab3db67375215c9c4378a",
+"texto": "sustituye el archivo de Korium por el nuevo y ábrelo en el mismo navegador.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "1b1eb28437910d84e569656922ce4e54",
+"texto": "Tus datos siguen ahí y verás las novedades.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "dcd1f6b2d081b262219e4f8baea45dc9",
+"texto": "Por si acaso, antes de cambiar de versión, pulsa Salir y guardar copia.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "398e8778820172c70b9b7c65881c0101",
+"texto": "Así tienes siempre tu copia más reciente en Descargas.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0ac8d578991e03826086c00b1961bb03",
+"texto": "Y con esto ya conoces todo Korium.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "a78ccd36da0ff7c26882ef449f3b1225",
+"texto": "Si tienes cualquier duda, pulsa Ayuda o pregunta a tu gestor.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "89a401b786d54dc5f7698f7cd78748b6",
+"texto": "¡A por ello!",
+"voz": "melo",
+"rate": "+0%"
+}
+]
