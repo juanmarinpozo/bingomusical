@@ -6,14 +6,15 @@ async def main():
     with open(f'{OUT}/voces.txt', 'w') as f:
         for v in es: f.write(f"{v['ShortName']}\t{v['Gender']}\t{v.get('VoiceTag',{}).get('VoicePersonalities','')}\n")
     pedido = json.load(open('tts/pedido.json'))
-    sem = asyncio.Semaphore(6)
+    sem = asyncio.Semaphore(3)
     async def una(p):
         ruta = f"{OUT}/{p['id']}.mp3"
         if os.path.exists(ruta): return
         async with sem:
             for intento in range(4):
                 try:
-                    await edge_tts.Communicate(p['texto'], p['voz'], rate=p.get('rate', '+0%')).save(ruta); return
+                    await asyncio.wait_for(edge_tts.Communicate(p['texto'], p['voz'], rate=p.get('rate', '+0%')).save(ruta), 40)
+                    print('ok', p['id'], flush=True); return
                 except Exception as e:
                     print('reintento', p['id'], e); await asyncio.sleep(3)
     pedidos = []
