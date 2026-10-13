@@ -1,0 +1,20 @@
+name: voz-tutoriales
+on:
+  push:
+    branches: [voz-tutoriales]
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install edge-tts==7.0.2
+      - run: python tts/generar.py
+      - run: |
+          git config user.name "voz-bot"; git config user.email "voz-bot@users.noreply.github.com"
+          git add tts/out
+          git commit -m "audios" || echo nada
+          git push
