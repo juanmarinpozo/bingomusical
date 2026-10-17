@@ -2,7 +2,8 @@ name: voz-melo
 on:
   push:
     branches: [voz-tutoriales]
-    paths: ['tts/pedido-melo.json']
+    paths: ['tts/pedido-melo.json', 'tts/melo_lote.py']
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -18,7 +19,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
       - run: pip install git+https://github.com/myshell-ai/MeloTTS.git && python -m unidic download
-      - run: python tts/melo.py ${{ matrix.shard }} 4 2>&1 | tail -c 20000 > /tmp/melo-${{ matrix.shard }}.txt; cp /tmp/melo-${{ matrix.shard }}.txt tts/out/m/salida-${{ matrix.shard }}.txt || true
+      - run: python tts/melo_lote.py ${{ matrix.shard }} 4 2>&1 | tail -c 20000 > /tmp/melo-${{ matrix.shard }}.txt; cp /tmp/melo-${{ matrix.shard }}.txt tts/out/m/salida-${{ matrix.shard }}.txt || true
         continue-on-error: true
       - name: subir
         if: always()
