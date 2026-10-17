@@ -1002,8 +1002,8 @@
 "rate": "+0%"
 },
 {
-"id": "6223c84bb71f14ca4e73b28dcdd43a08",
-"texto": "Después pasa a la siguiente.",
+"id": "9dd6f0f08c6aec4e1bc6a0333b0ba46f",
+"texto": "Después pasa a la siguiente con Continuar, o con un doble clic en la respuesta.",
 "voz": "melo",
 "rate": "+0%"
 },
@@ -1080,14 +1080,38 @@
 "rate": "+0%"
 },
 {
-"id": "23a08c1c115b0331e4cb8df1a2f6af7b",
-"texto": "Después, paso a paso y cuando tú decidas, le enseñas su nota,",
+"id": "a73c7af7ea792297968633f96ec6041d",
+"texto": "Después, cuando tú decidas, le enseñas su nota.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "4d30495fdc4f9a1e908f2e59b9c6d7bf",
-"texto": "la recomendación de servicio y la propuesta con el precio.",
+"id": "5e7fc325574994251200942991037573",
+"texto": "Sale en una ventana sobre el resumen, con el fondo desenfocado,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "405eba43e2c868234f3bfa85dc852fb1",
+"texto": "para que el cliente se fije solo en eso.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "afb52964089470a5e7eb665642be51b1",
+"texto": "Con el botón de abajo pasas a la recomendación de servicio y después a la propuesta con el precio.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "54f6d6d85a9704d8fda3a4f6a3b3d938",
+"texto": "La ventana no se cierra con un clic fuera:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "509f3df030eea3a7e306cd062fefb071",
+"texto": "así no se salta ningún paso.",
 "voz": "melo",
 "rate": "+0%"
 },
@@ -1110,80 +1134,98 @@
 "rate": "+0%"
 },
 {
+"id": "c6bfb1bb4e93f888c8e7d535d1aeac64",
+"texto": "Por último, el plan de seguimiento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "49593641968af3fe658b57fbc043993e",
+"texto": "Al cerrarlo, todo queda a la vista debajo del resumen,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0cba28a6ea58ea736e77345bff549a0d",
+"texto": "y con Volver a ver los resultados lo repites cuando quieras.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
 "id": "69422f2b84a24223c77769b22b7e4cd4",
 "texto": "Para cerrar la sesión tienes el guion de cierre, con lo que debes decir en este momento.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "9d7792898bca56d6cf9e048749aee63a",
-"texto": "Cuando termines, pulsa Terminar y guardar.",
+"id": "edf8693680473d7470c6fbb8dbf7e36b",
+"texto": "Cuando termines, pulsa Imprimir y enviar, o Terminar y guardar si lo vas a enviar más tarde.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "65bcdad785ff1ecbc8f7b0c1da21addd",
-"texto": "Qué hacer con el resultado lo vemos en el siguiente vídeo.",
+"id": "1aa12b421acea5950bafb53f41afcbf3",
+"texto": "Al acabar el test, pulsa Imprimir y enviar.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "956920b8c6e204a2c99971576dbe3f20",
-"texto": "Al pulsar Terminar y guardar, ves el resultado del test:",
+"id": "c63a7508b352cd2c593c8f7e2c6c430a",
+"texto": "Korium guarda el test y te guía, paso a paso, para enviarle todo al cliente.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "d2e4cca08048ee2e040b519410df6510",
-"texto": "la recomendación, la nota y el precio de la propuesta.",
+"id": "62ce3d3396af76ef3a60cad8ee83948e",
+"texto": "Primero, el idioma del documento.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "2134428f24c9493524ab6f58553e1de8",
-"texto": "Debajo, todo lo que tienes que enviar al cliente, en orden.",
+"id": "ba8bdd7713e4f3d51f3190da856d9547",
+"texto": "Por defecto es el del test, aunque puedes elegir otro.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "ec9e5908e72de3b682ac96d430378c3f",
-"texto": "Uno:",
+"id": "2fc43cb7a7b4efb35b8d0d9c05cb4336",
+"texto": "El correo y el recordatorio irán en el mismo idioma.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "8a92d70b50b04918f308910d205264f9",
-"texto": "el resumen y la propuesta en pe de efe.",
+"id": "fbbc674eb9cd221b29cf7a5bb889e7e6",
+"texto": "Con Ver el pe de efe antes, lo revisas dentro de Korium:",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "443b38016f193ad621561e33278d6502",
-"texto": "Se abre listo para imprimir:",
+"id": "99d789dda5357371ba5474f99509d0a2",
+"texto": "la nota, la recomendación con el precio y el detalle de sus respuestas.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "380435291a862a2b2b6fa42660caba60",
-"texto": "elige Guardar como pe de efe.",
+"id": "53a5196402e18bb074795c1400730af9",
+"texto": "Al pulsar Generar pe de efe, se abre la ventana de imprimir de tu navegador.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "96e9075d5bb1ee32f9829c26b28b8eaf",
-"texto": "Sale en el idioma del test, aunque puedes elegir otro.",
+"id": "a037bffd634bb559074531057059fa1d",
+"texto": "Elige Guardar como pe de efe:",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "6a468cf48b8771977df01be36809fa46",
-"texto": "Dos:",
+"id": "db70810a7bc8782882c336e7eacb448e",
+"texto": "el archivo ya sale con el nombre del cliente.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "c99b93c16819af851afcc1efa0196d88",
-"texto": "el email.",
+"id": "3dc884575591579ae64c0432d7f0c19c",
+"texto": "Después, Korium te pregunta si quieres enviarlo por correo.",
 "voz": "melo",
 "rate": "+0%"
 },
@@ -1194,8 +1236,8 @@
 "rate": "+0%"
 },
 {
-"id": "af054edf669df2745ade14c35d15751f",
-"texto": "Korium te deja el email escrito:",
+"id": "e73feae257ff1c20389a035f94fcc18a",
+"texto": "El email sale ya redactado:",
 "voz": "melo",
 "rate": "+0%"
 },
@@ -1206,26 +1248,86 @@
 "rate": "+0%"
 },
 {
-"id": "fc86f678025995cfaf9c64159ee0ca1c",
-"texto": "Tres:",
+"id": "a19f2a55bb9e8a53a83dd213b61c3562",
+"texto": "Y por último, el recordatorio de seguimiento, a los dos días laborables,",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "975c6e735272a35610082539cd9f99e5",
-"texto": "el recordatorio de seguimiento, para gúguel calendar o para áutluk, con el resumen del test.",
+"id": "9cf4c011002e378fd1b6cb2af4d24217",
+"texto": "con todo el resumen del test.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "3e595973d0f9eb3c1eba3375ac5a5387",
-"texto": "Y cuatro:",
+"id": "e8b038eb57e6672ac5f7480cdc9946b9",
+"texto": "Añade tus comentarios y comprueba el teléfono.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "04a3e0e8540804fb66be3f58d522861d",
-"texto": "el guasap de seguimiento, para enviarlo a los dos días si no hay respuesta.",
+"id": "2cc31954f3f3434d108de2c2d5555639",
+"texto": "El día del recordatorio solo tendrás que pinchar el enlace para escribirle por guasap,",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7d870b6fdd037314377aed12fc6a9978",
+"texto": "con el mensaje de seguimiento ya redactado.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "aebf7fdc60f65a5d935bae3c29092504",
+"texto": "Elige tu agenda:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "4ef8875c5f8b4e53587a60b7e0a5d903",
+"texto": "gúguel calendar, áutluk o cualquier otra con el archivo de calendario.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "7f39da2243db5472003b4253ab918ab3",
+"texto": "Y listo.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "0de13c77b5d5412212e8bca6e1e30532",
+"texto": "Cuando hayas enviado el correo, pulsa Ya envié la propuesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "daa202fb0a1acde98f1fc1b78bd5b3d0",
+"texto": "Korium te recordará en Hoy cuándo hacer el seguimiento.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "2ea6574db82f81f1e3b3aa37905a9bbb",
+"texto": "Detrás tienes el resultado del test:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "d2e4cca08048ee2e040b519410df6510",
+"texto": "la recomendación, la nota y el precio de la propuesta.",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "3d7d1e3cf0dea689e082a4cc97a3c218",
+"texto": "Y en Enviar al cliente puedes repetir cualquier paso más tarde:",
+"voz": "melo",
+"rate": "+0%"
+},
+{
+"id": "b67b59bcc08fd44b3e6dbaafd48a5b54",
+"texto": "el pe de efe, el correo, el recordatorio o el guasap de seguimiento.",
 "voz": "melo",
 "rate": "+0%"
 },
@@ -1250,18 +1352,6 @@
 {
 "id": "60e701203a6a0ea07a1c478bd29c6f76",
 "texto": "pedir referidos y repetir el test más adelante.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "13f3ae4a1d17cf6ccc9d4d0a5c0bfbf8",
-"texto": "Cuando hayas enviado la propuesta, pulsa Ya envié la propuesta.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "daa202fb0a1acde98f1fc1b78bd5b3d0",
-"texto": "Korium te recordará en Hoy cuándo hacer el seguimiento.",
 "voz": "melo",
 "rate": "+0%"
 },
