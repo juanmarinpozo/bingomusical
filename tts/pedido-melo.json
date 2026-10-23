@@ -1,133 +1,55 @@
 [
 {
-"id": "20e31660734e2baebcf9ee99dde5638b",
-"texto": "La forma más rápida de empezar es montar tu top doscientos de una vez,",
+"id": "dd3a7b5883b91e47b3a2a1791cdbef6d",
+"texto": "La forma más rápida de empezar es elegir de una vez a las personas de tu top doscientos,",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "b89874e9a126dfc69c5c95040406feb3",
-"texto": "y después valorarlo ficha a ficha, sin volver a la lista.",
+"id": "122bda860cbd293371c3711e8fc0fe04",
+"texto": "y después valorarlas ficha a ficha, sin volver a la lista.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "128378d12c6804a553cd80eac647aa56",
-"texto": "Cada página de Contactos muestra 50 contactos.",
+"id": "7ffd67c51f3ac92f4cf490e787ed3586",
+"texto": "En Contactos, marca con la casilla de cada fila a las personas que quieres en tu top doscientos.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "0da9225c8902c32c2e85fd6e50b55fa1",
-"texto": "Con la casilla de arriba de la lista, seleccionas la página entera.",
+"id": "d5bfeaf49c0dfae375248cdbee214e54",
+"texto": "Las que tú elijas, estén donde estén.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "31142d9ca985cca72d363bfc3230ae15",
-"texto": "Abajo, pulsa Siguiente para pasar de página, y vuelve a marcar la casilla.",
+"id": "bcc75c4c676672f807d09390d156ff9f",
+"texto": "Arriba ves cuántas llevas seleccionadas.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "637b93d8bdfc84fed5a5f580b724c04e",
-"texto": "Repítelo en cuatro páginas, y ya tienes 200 contactos seleccionados.",
+"id": "e1c798e185390bd865653674b7a6201a",
+"texto": "Puedes pasar de página y seguir marcando:",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "dbd8aa7c28a2754e27d9c8dc5713f22e",
-"texto": "Ahora pulsa Añadir al top doscientos.",
+"id": "9a80f257ee4683cf3599f0e8bbcf13e1",
+"texto": "lo que ya tenías seleccionado no se pierde.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "f211e50f2b40869201b5041c15638079",
-"texto": "En el filtro, elige top doscientos.",
+"id": "783f2e6fcd8bee7f86bb27878b6ea1d1",
+"texto": "Y si te interesa una página entera, la casilla de arriba de la lista la marca de golpe.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "01d1e4430cfe0b1df53c89bcb1c46824",
-"texto": "Así solo ves esos contactos.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "c82ab32fbfda71cb21f66525bad652b8",
-"texto": "Abre la ficha del primero, pulsando en su nombre.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "17f02127d105f32560b76ad2717419c7",
-"texto": "En Valoración, marca los criterios que cumple, y su relación:",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "e008dc7e47561454539e761276253ef7",
-"texto": "caliente, templado o frío.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "f75e7904fc6ebadfbaad32a9dadddd42",
-"texto": "No tienes que guardar nada:",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "6e47060c549eb1e6ba0030c8f1fec31c",
-"texto": "los cambios se guardan solos.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "1f68be01bf9cee713956d347945d5aba",
-"texto": "Pulsa Siguiente, y pasas al siguiente contacto de tu top doscientos, sin volver a la lista.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "4afe56795c826c4c2c2dadcf76f05ad8",
-"texto": "Valora, y otra vez Siguiente.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "0c0e7f531104de9569766adf8ce4f2df",
-"texto": "Así, uno detrás de otro.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "d4d918dc636ef5a01dbc773ff90d6ba7",
-"texto": "Arriba ves por qué contacto vas.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "f8da51fa00040a8e72c6c48a8a68e472",
-"texto": "Y con Anterior, vuelves al de antes.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "35ed0669bfda4d6d9872cee2ef577298",
-"texto": "Cuando llegues al último, Korium te avisa y te devuelve a la lista.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "765d1c780cefefdc6b12fb7ad989657b",
-"texto": "Y al volver, el filtro sigue puesto.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "c64ebe070dd6b7e34e8fe522fc51fb29",
-"texto": "Así tienes tu top doscientos valorado en muy poco tiempo, y listo para empezar a llamar.",
+"id": "ad508070751861dc8b0fff9b49277668",
+"texto": "Cuando las tengas, pulsa Añadir al top doscientos.",
 "voz": "melo",
 "rate": "+0%"
 }
