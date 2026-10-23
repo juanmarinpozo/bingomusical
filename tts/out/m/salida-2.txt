@@ -3,15 +3,17 @@
 [nltk_data] Downloading package averaged_perceptron_tagger to
 [nltk_data]     /home/runner/nltk_data...
 [nltk_data]   Unzipping taggers/averaged_perceptron_tagger.zip.
+[nltk_data] Downloading package averaged_perceptron_tagger_eng to
+[nltk_data]     /home/runner/nltk_data...
+[nltk_data]   Unzipping taggers/averaged_perceptron_tagger_eng.zip.
 [nltk_data] Downloading package cmudict to /home/runner/nltk_data...
 [nltk_data]   Unzipping corpora/cmudict.zip.
 /opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
   warnings.warn(
 /opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
   WeightNorm.apply(module, name, dim)
-ok 532a1da744a483cb2d19609f5bc27ca6
-ok dba311a46c6fe03e13caedb222f3f9df
-ok fe2a468e5e5d54770620c31504aa1805
-ok b7418c800f65eca36fccc7d7988b1f52
-ok 897beb403ad4f2407638103e8c825968
-ok 9fbb9fa046e9acdb719e45f1981700ef
+ok 128378d12c6804a553cd80eac647aa56
+ok dbd8aa7c28a2754e27d9c8dc5713f22e
+ok 17f02127d105f32560b76ad2717419c7
+ok 1f68be01bf9cee713956d347945d5aba
+ok f8da51fa00040a8e72c6c48a8a68e472
