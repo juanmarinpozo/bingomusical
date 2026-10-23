@@ -1,139 +1,133 @@
 [
 {
-"id": "678e6ea650353cb5ad90477d16f8ffd8",
-"texto": "Para empezar a trabajar con Korium necesitas tu agenda.",
+"id": "20e31660734e2baebcf9ee99dde5638b",
+"texto": "La forma más rápida de empezar es montar tu top doscientos de una vez,",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "77f3c72d1726eb2439648bd3f5083cbc",
-"texto": "La sacas del móvil en unos minutos, desde el ordenador y sin instalar nada.",
+"id": "b89874e9a126dfc69c5c95040406feb3",
+"texto": "y después valorarlo ficha a ficha, sin volver a la lista.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "532a1da744a483cb2d19609f5bc27ca6",
-"texto": "Primero, mira dónde tienes los contactos.",
+"id": "128378d12c6804a553cd80eac647aa56",
+"texto": "Cada página de Contactos muestra 50 contactos.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "fd718a7dd7f9ce08c63d29f411a9b367",
-"texto": "Si tienes ándroid, o un áifon que los sincroniza con yi meil, están en gúguel.",
+"id": "0da9225c8902c32c2e85fd6e50b55fa1",
+"texto": "Con la casilla de arriba de la lista, seleccionas la página entera.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "ae6d4db777aaeecfe52f817fc98c6e16",
-"texto": "Si tienes áifon sin gúguel, están en ai claud.",
+"id": "31142d9ca985cca72d363bfc3230ae15",
+"texto": "Abajo, pulsa Siguiente para pasar de página, y vuelve a marcar la casilla.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "4c80754561ff1bf766be5be34d3da367",
-"texto": "Con gúguel:",
+"id": "637b93d8bdfc84fed5a5f580b724c04e",
+"texto": "Repítelo en cuatro páginas, y ya tienes 200 contactos seleccionados.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "dba311a46c6fe03e13caedb222f3f9df",
-"texto": "en el ordenador, entra en contacts punto gúguel punto com, pulsa Exportar y elige ce ese uve de gúguel.",
+"id": "dbd8aa7c28a2754e27d9c8dc5713f22e",
+"texto": "Ahora pulsa Añadir al top doscientos.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "7a5c23af1399270d21cf2269970265c2",
-"texto": "Se descarga un archivo.",
+"id": "f211e50f2b40869201b5041c15638079",
+"texto": "En el filtro, elige top doscientos.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "577f4c14d49b03c3fcc95bde15ca0f45",
-"texto": "Con ai claud:",
+"id": "01d1e4430cfe0b1df53c89bcb1c46824",
+"texto": "Así solo ves esos contactos.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "772b112c59ec71bcc1fd97c569fb6752",
-"texto": "entra en ai claud punto com, en Contactos.",
+"id": "c82ab32fbfda71cb21f66525bad652b8",
+"texto": "Abre la ficha del primero, pulsando en su nombre.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "fe2a468e5e5d54770620c31504aa1805",
-"texto": "En Acciones, elige Seleccionar todos los contactos.",
+"id": "17f02127d105f32560b76ad2717419c7",
+"texto": "En Valoración, marca los criterios que cumple, y su relación:",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "e57b15e30f74d8e1adbbdeff0c9fab39",
-"texto": "Después pulsa Compartir y Exportar uve card.",
+"id": "e008dc7e47561454539e761276253ef7",
+"texto": "caliente, templado o frío.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "7afcf890a4d0ca78fc85d2b1dedb2446",
-"texto": "Se descarga un archivo  punto uve ce efe.",
+"id": "f75e7904fc6ebadfbaad32a9dadddd42",
+"texto": "No tienes que guardar nada:",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "5a6e55226c22389591740b1cd73d5d26",
-"texto": "Después, en Korium, ve a Contactos y pulsa Importar.",
+"id": "6e47060c549eb1e6ba0030c8f1fec31c",
+"texto": "los cambios se guardan solos.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "b7418c800f65eca36fccc7d7988b1f52",
-"texto": "Elige el archivo tal cual, sin convertirlo.",
+"id": "1f68be01bf9cee713956d347945d5aba",
+"texto": "Pulsa Siguiente, y pasas al siguiente contacto de tu top doscientos, sin volver a la lista.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "aeb50c477a8194e974fed27ae23b7be5",
-"texto": "Korium lee el de gúguel, el de ai claud y también cualquier éksel.",
+"id": "4afe56795c826c4c2c2dadcf76f05ad8",
+"texto": "Valora, y otra vez Siguiente.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "4958d187efd237dd466953613bebdb9f",
-"texto": "El archivo se lee en tu ordenador:",
+"id": "0c0e7f531104de9569766adf8ce4f2df",
+"texto": "Así, uno detrás de otro.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "0343e511397275eea37d8bc6f59976c0",
-"texto": "no se sube a ningún sitio.",
+"id": "d4d918dc636ef5a01dbc773ff90d6ba7",
+"texto": "Arriba ves por qué contacto vas.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "897beb403ad4f2407638103e8c825968",
-"texto": "Por eso no hace falta, ni conviene, usar webs para convertirlo.",
+"id": "f8da51fa00040a8e72c6c48a8a68e472",
+"texto": "Y con Anterior, vuelves al de antes.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "c1ffbd40f3ac2226d7b727bbdef7faa6",
-"texto": "Korium coge el nombre, los apellidos y el teléfono, primero el móvil,",
+"id": "35ed0669bfda4d6d9872cee2ef577298",
+"texto": "Cuando llegues al último, Korium te avisa y te devuelve a la lista.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "f388eca98e592a11d6c8762ba87cc22c",
-"texto": "Tienes estos pasos en la Ayuda de Korium y en el tutorial en pe de efe.",
+"id": "765d1c780cefefdc6b12fb7ad989657b",
+"texto": "Y al volver, el filtro sigue puesto.",
 "voz": "melo",
 "rate": "+0%"
 },
 {
-"id": "8425976267dede9de78f5ff178432465",
-"texto": "Y ahora, a valorar tus contactos.",
-"voz": "melo",
-"rate": "+0%"
-},
-{
-"id": "9fbb9fa046e9acdb719e45f1981700ef",
-"texto": "Lo tienes explicado en el vídeo de Contactos.",
+"id": "c64ebe070dd6b7e34e8fe522fc51fb29",
+"texto": "Así tienes tu top doscientos valorado en muy poco tiempo, y listo para empezar a llamar.",
 "voz": "melo",
 "rate": "+0%"
 }
