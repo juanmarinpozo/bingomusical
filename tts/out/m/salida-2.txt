@@ -12,8 +12,5 @@
   warnings.warn(
 /opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
   WeightNorm.apply(module, name, dim)
-ok 128378d12c6804a553cd80eac647aa56
-ok dbd8aa7c28a2754e27d9c8dc5713f22e
-ok 17f02127d105f32560b76ad2717419c7
-ok 1f68be01bf9cee713956d347945d5aba
-ok f8da51fa00040a8e72c6c48a8a68e472
+ok 7ffd67c51f3ac92f4cf490e787ed3586
+ok 9a80f257ee4683cf3599f0e8bbcf13e1
